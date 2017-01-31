@@ -9,6 +9,10 @@
           p= theme.description
 
   ul.social-links
+   if theme.email
+      li
+        a(href="mailto:" + theme.email)
+          i.fa.fa-envelope
     if theme.twitter
       li
         a(href="https://twitter.com/" + theme.twitter)
@@ -17,18 +21,14 @@
       li
         a(href="http://instagram.com/" + theme.instagram)
           i.fa.fa-instagram
-    if theme.rss
-      li
-        a(href= url_for(theme.rss))
-          i.fa.fa-rss
     if theme.weibo
       li
         a(href="http://weibo.com/" + theme.weibo)
           i.fa.fa-weibo
-    if theme.email
+    if theme.rss
       li
-        a(href="mailto:" + theme.email)
-          i.fa.fa-envelope
+        a(href= url_for(theme.rss))
+          i.fa.fa-rss   
     if theme.iTunes
       li
         a(href="https://itunes.apple.com/cn/podcast/id" + theme.iTunes)
