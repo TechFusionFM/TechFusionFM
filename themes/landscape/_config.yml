@@ -1,7 +1,10 @@
 # Header
 menu:
   Home: /
-  Archives: /archives
+  FAQ: /faq
+  RSS: /atom.xml
+  Email : mailto:hi@TechFusionFM.com
+  Donate: 
 rss: /atom.xml
 
 # Content

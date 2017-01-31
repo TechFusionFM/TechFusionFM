@@ -25,4 +25,12 @@
       li
         a(href="http://weibo.com/" + theme.weibo)
           i.fa.fa-weibo
+    if theme.email
+      li
+        a(href="mailto:" + theme.email)
+          i.fa.fa-envelope
+    if theme.iTunes
+      li
+        a(href="https://itunes.apple.com/cn/podcast/id" + theme.iTunes)
+          i.fa.fa-apple
   include footer

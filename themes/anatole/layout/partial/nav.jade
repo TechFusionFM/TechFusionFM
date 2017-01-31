@@ -6,20 +6,21 @@
       else
         a(href="/")= __('Home')	
     li
-      if is_current('about')
-        a.current(href="/about")= __('About')			
+      if is_current('FAQ')
+        a.current(href="/faq")= __('FAQ')			
       else
-        a(href="/about")= __('About')
+        a(href="/faq")= __('FAQ')
     li
-      if is_archive()
-        a.current(href="/archives")= __('Archive')
+      if is_current('Email')
+        a.current(href="/links")= __('Email')					
       else
-        a(href="/archives")= __('Archive')
+        a(href="mailto:hi@TechFusionFM.com")= __('Email')	
     li
-      if is_current('links')
-        a.current(href="/links")= __('Links')					
+      if is_current('Donate')
+        a.current(href="/donate")= __('Donate')					
       else
-        a(href="/links")= __('Links')		
+        a(href="/donate")= __('Donate')	
+        
   .information
     .back_btn
       li

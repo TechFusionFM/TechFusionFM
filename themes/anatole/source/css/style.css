@@ -157,8 +157,7 @@ a:hover, a:active {
     .sidebar .logo-title .logo {
       margin: 0 auto; }
     .sidebar .logo-title .title h3 {
-      text-transform: uppercase;
-      font-size: 2rem;
+      font-size: 1.5rem;
       font-weight: bold;
       letter-spacing: 2px;
       line-height: 1;
@@ -166,7 +165,7 @@ a:hover, a:active {
     .sidebar .logo-title .title a {
       text-decoration: none;
       color: #464646;
-      font-size: 2rem;
+      font-size: 1.5rem;
       font-weight: bold; }
   .sidebar .social-links {
     list-style: none;
