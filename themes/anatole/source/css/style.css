@@ -155,13 +155,13 @@ a:hover, a:active {
       font-size: 14px;
       color: #565654; }
     .sidebar .logo-title .logo {
-      margin: 0 auto; }
+      margin: 10 auto; }
     .sidebar .logo-title .title h3 {
       font-size: 1.5rem;
       font-weight: bold;
-      letter-spacing: 2px;
+      letter-spacing: -1px;
       line-height: 1;
-      margin: 0; }
+      margin:10px; }
     .sidebar .logo-title .title a {
       text-decoration: none;
       color: #464646;
