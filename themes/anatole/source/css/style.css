@@ -122,14 +122,16 @@ background-color:#fff;
       border-bottom: 1px solid #5A5A5A; }
   .page-top .information {
     float: right;
+      position: absolute;
     padding-top: 12px;
     padding-right: 20px; }
     .page-top .information .avatar {
       float: right; }
       .page-top .information .avatar img {
-        width: 32px;
-        height: 32px;
-        border-radius: 300px; }
+        width: 42px;
+        height: 42px;
+          display: none
+ }
     .page-top .information .back_btn {
       float: left;
       padding-top: 5px;
@@ -152,10 +154,10 @@ background-color:#fff;
   border-right: 1px solid #f2f2f2; }
   .sidebar .logo-title {
     text-align: center;
-    padding-top: 240px; }
+    padding-top: 140px; }
     .sidebar .logo-title .description {
       font-size: 14px;
-      color: #565654;
+      color: #a8a7a7;
 	padding: 0px 20px; }
     .sidebar .logo-title .logo {
       margin: 10 auto; }
@@ -167,13 +169,13 @@ background-color:#fff;
       margin:10px; }
     .sidebar .logo-title .title a {
       text-decoration: none;
-      color: #464646;
+      color: #f2f2f2;
       font-size: 1.5rem;
       font-weight: bold; }
   .sidebar .social-links {
     list-style: none;
     padding: 0;
-    font-size: 14px;
+    font-size: 16px;
     text-align: center; }
     .sidebar .social-links i {
       margin-right: 3px; }
@@ -182,7 +184,7 @@ background-color:#fff;
       padding: 0 4px;
       line-height: 0; }
     .sidebar .social-links a {
-      color: #565654; }
+      color: #f2f2f2; }
     .sidebar .social-links a:hover {
       color: #4786D6; }
 
