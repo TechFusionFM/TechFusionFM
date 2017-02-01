@@ -166,7 +166,8 @@ background-color:#fff;
       font-weight: bold;
       letter-spacing: -1px;
       line-height: 1;
-      margin:10px; }
+      margin:10px;
+display:none }
     .sidebar .logo-title .title a {
       text-decoration: none;
       color: #f2f2f2;
@@ -545,7 +546,8 @@ a.btn {
       .sidebar .logo-title .title img {
         width: 100px; }
       .sidebar .logo-title .title h3 {
-        font-size: 20px; }
+        font-size: 20px; 
+display:block;}
 
   .page-top {
     width: 100%; }
