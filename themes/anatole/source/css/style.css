@@ -318,7 +318,8 @@ background-color:#fff;
   bottom: 0;
   position: absolute;
   width: 100%;
-  padding-bottom: 20px; }
+  padding-bottom: 20px; 
+ color: white;}
   .footer a {
     color: #A6A6A6; }
   .footer a:hover {
