@@ -9,12 +9,24 @@ description: "《科技聚变》(TechFusion) 是一档科技主题播客节目�
 author: "TechFusion"
 language: zh-tw
 timezone: Asia/Harbin
+copyright: "TechFusionFM.com"
+owner: ITUNES-OWNER
+email: ITUNES-EMAIL
+category: Technology
+default_thumb: "/images/logo@2x.png"
+
+#Podcast
+podcast:
+    type: rss2
+    path: podcast.xml
+    limit: 20
+    hub:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: http://techfusionfm.com
 root: /
-permalink: :year/:month/:day/:title/
+permalink: :title
 permalink_defaults:
 
 # Directory
@@ -94,6 +106,10 @@ image_minifier:
   optimizationLevel: 2
   pngquant: false
   progressive: false
+
+nofollow:
+    enable: true
+
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
