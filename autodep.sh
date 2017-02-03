@@ -1,7 +1,7 @@
 echo "Locating CMS Folder"
 cd ~/TechFusionFM
 echo "Generating Static Files"
-hexo generate
+hexo deploy
 echo "Removing Existing Static Files on Apache Server"
 rm -rf /var/www/html/*
 echo "Coping Static Files to Apache Server"

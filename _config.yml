@@ -7,11 +7,11 @@ title: "科技聚变 (TechFusion)"
 subtitle: "《科技聚变》(TechFusion) 是一档科技主题播客节目，我们谈论有关互联网的一切。"
 description: "《科技聚变》(TechFusion) 是一档科技主题播客节目，我们谈论有关互联网的一切。"
 author: "TechFusion"
-language: zh-tw
+language: zh-CN
 timezone: Asia/Harbin
 copyright: "TechFusionFM.com"
-owner: ITUNES-OWNER
-email: ITUNES-EMAIL
+owner: TechFusion
+email: "hi@TechFusionFM.com"
 category: Technology
 default_thumb: "/images/logo@2x.png"
 
@@ -19,8 +19,9 @@ default_thumb: "/images/logo@2x.png"
 podcast:
     type: rss2
     path: podcast.xml
-    limit: 20
+    limit: 0
     hub:
+    content: true
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
