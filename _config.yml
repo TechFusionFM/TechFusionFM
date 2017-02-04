@@ -10,7 +10,7 @@ author: "TechFusion"
 language: zh-CN
 timezone: Asia/Harbin
 copyright: "TechFusionFM.com"
-owner: TechFusion
+owner: "科技聚变 (TechFusion)"
 email: "hi@TechFusionFM.com"
 category: Technology
 default_thumb: "/images/logo@2x.png"
@@ -25,7 +25,7 @@ podcast:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://techfusionfm.com
+url: http://TechFusionFM.com
 root: /
 permalink: :title
 permalink_defaults:
