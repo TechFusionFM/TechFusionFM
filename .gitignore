@@ -4,5 +4,5 @@ db.json
 *.log
 public/
 .deploy*/
-!node_modules/hexo-generator-podcast*
-node_modules/
+node_modules/*
+!node_modules/hexo-generator-podcast/
