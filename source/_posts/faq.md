@@ -23,7 +23,7 @@ date: 2017-02-01 00:00:00
 \*Android 用户请在 Google Play Store 下载上述客户端，除 Google Play Store 外的第三方应用市场下载的 App很可能会对您的[个人信息安全造成威胁](https://blog.avast.com/2015/10/09/more-malware-found-on-third-party-app-stores/)。
 
 
-#### 如何在其他平台上找到你们？
+#### 如何在其他平台上找到我们？
 直接点击网页<i class="fa fa-arrow-circle-o-up"></i>上方或<i class="fa fa-arrow-circle-o-left"></i>左方一排社交网站 Logo 或点击下方链接：
 
 - Twitter： [@TechFusionFM](http://twitter.com/TechFusionFM)
