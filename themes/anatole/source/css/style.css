@@ -222,7 +222,6 @@ display:none }
       text-decoration: underline; }
   .post .post-content a {
     text-decoration: none;
-    letter-spacing: 1px;
     color: #4786D6; }
   .post .post-content a:hover {
     color: #2F69B3; }
