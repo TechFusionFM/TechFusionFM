@@ -12,7 +12,7 @@ date: 2017-02-01 00:00:00
 
 以下是我们推荐的**泛用型播客客户端**及其下载链接，**直接点击**即可：
 
-- Podcasts <i class="fa fa-podcast"></i> ： 苹果官方的免费客户端，iOS 以及 macOS 自带，<i class="fa fa-windows"></i>Windows 需要[下载 iTunes](https://www.apple.com/itunes/download/)。**[点此订阅]()**。
+- Podcasts： 苹果官方的免费客户端<i class="fa fa-podcast"></i>，iOS 以及 macOS 自带，<i class="fa fa-windows"></i> Windows 需要[下载 iTunes](https://www.apple.com/itunes/download/)。**[点此订阅]()**。
 - [Pockst Casts](http://www.shiftyjelly.com/android/pocketcasts)：付费但是支持 [<i class="fa fa-android"></i> Andriod\*](https://play.google.com/store/apps/details?id=au.com.shiftyjelly.pocketcasts)，[<i class="fa fa-mobile-phone"></i> iOS](https://itunes.apple.com/au/app/pocket-casts/id414834813?mt=8&uo=4&at=10l4We)，[<i class="fa fa-windows"></i> WindowsPhone](https://www.windowsphone.com/s?appid=55b093dc-219e-472e-9545-4c317f59cb57) 以及[<i class="fa fa-window-maximize"></i> 网页](https://play.pocketcasts.com/)的全平台播客客户端。**[点此订阅](http://pca.st/podcast/28fcd200-cc7c-0134-10da-25324e2a541d)**。
 - [Overcast](https://overcast.fm)：免费但是接受捐助的 [<i class="fa fa-mobile-phone"></i> iOS](https://itunes.apple.com/us/app/overcast-podcast-player/id888422857?ls=1&mt=8&at=11lIuy&ct=site-frontpage) 以及[<i class="fa fa-window-maximize"></i> 网页](https://overcast.fm/login)播客客户端。
 - [Castro](http://supertop.co/castro/)：付费的精美 [<i class="fa fa-mobile-phone"></i> iOS](http://supertop.co/castro/download/?campaign=C2HomepageHeader) 播客客户端。
@@ -24,7 +24,7 @@ date: 2017-02-01 00:00:00
 
 
 #### 如何在其他平台上找到你们？
-直接点击网页<i class="fa fa-arrow-circle-o-up"></i>上方或<i class="fa fa-arrow-circle-o-left"></i>左方一排社交网站 logo 或：
+直接点击网页<i class="fa fa-arrow-circle-o-up"></i>上方或<i class="fa fa-arrow-circle-o-left"></i>左方一排社交网站 Logo 或点击下方链接：
 
 - Twitter： [@TechFusionFM](http://twitter.com/TechFusionFM)
 - Instagram： [@TechFusionFM](http://instagram.com/TechFusionFM)
