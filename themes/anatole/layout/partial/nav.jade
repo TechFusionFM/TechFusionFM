@@ -1,7 +1,10 @@
 .page-top.animated.fadeInDown
   .nav
     li
-      a(href="/")= __('Home')	
+       if is_home()
+        a.current(href="/")= __('Home')					
+      else
+        a(href="/")= __('Home')	
     li
       if is_current('FAQ')
         a.current(href="/faq")= __('FAQ')			
