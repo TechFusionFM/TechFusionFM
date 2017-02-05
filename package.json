@@ -10,7 +10,6 @@
     "hexo-admin": "^2.1.0",
     "hexo-all-minifier": "0.0.14",
     "hexo-autonofollow": "^1.0.1",
-    "hexo-deployer-git": "^0.2.0",
     "hexo-filter-auto-spacing": "^0.2.1",
     "hexo-footnotes": "^1.0.1",
     "hexo-generator-archive": "^0.1.4",
