@@ -26,7 +26,7 @@ podcast:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://TechFusionFM.com
+url: https://TechFusionFM.com
 root: /
 permalink: :title
 permalink_defaults:
