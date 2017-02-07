@@ -25,12 +25,12 @@
       li
         a(href="http://weibo.com/" + theme.weibo)
           i.fa.fa-weibo
-    if theme.rss
-      li
-        a(href= url_for(theme.rss))
-          i.fa.fa-rss   
     if theme.iTunes
       li
         a(href="https://itunes.apple.com/cn/podcast/id" + theme.iTunes)
           i.fa.fa-apple
+    if theme.rss
+      li
+        a(href= url_for(theme.rss))
+          i.fa.fa-rss   
   include footer

@@ -26,14 +26,17 @@ date: 2017-02-01 00:00:00
 #### 如何在其他平台上找到我们？
 直接点击网页<i class="fa fa-arrow-circle-o-up"></i>上方或<i class="fa fa-arrow-circle-o-left"></i>左方一排社交网站 Logo 或点击下方链接：
 
-- Podcasts:[科技聚变\(TechFusion\)](https://itunes.apple.com/cn/podcast/id1202658654)
-- Pocket Casts:[科技聚变\(TechFusion\)](http://pca.st/podcast/28fcd200-cc7c-0134-10da-25324e2a541d)
+
 - Twitter： [@TechFusionFM](http://twitter.com/TechFusionFM)
 - Instagram： [@TechFusionFM](http://instagram.com/TechFusionFM)
-- 新浪微博：[@TechFusionFM](http://weibo.com/TechFusionFM)
-- 电子邮件：[Hi@TechFusionFM.com](mailto:hi@TechFusionFM.com)
-- 网易云音乐: [科技聚变\(TechFusion\)](http://music.163.com/#/djradio?id=347498120)
-- 喜马拉雅 FM: [科技聚变\(TechFusion\)](http://www.ximalaya.com/72456289/album/6648521)
-- 荔枝 FM:[科技聚变\(TechFusion\)](https://www.lizhi.fm/1494013/)
+- 新浪微博： [@TechFusionFM](http://weibo.com/TechFusionFM)
+- 电子邮件： [Hi@TechFusionFM.com](mailto:hi@TechFusionFM.com)
+- Podcasts： [科技聚变\(TechFusion\)](https://itunes.apple.com/cn/podcast/id1202658654)
+- Pocket Casts： [科技聚变\(TechFusion\)](http://pca.st/podcast/28fcd200-cc7c-0134-10da-25324e2a541d)
+- 荔枝 FM： [科技聚变\(TechFusion\)](https://www.lizhi.fm/1494013/)
+- 喜马拉雅 FM： [科技聚变\(TechFusion\)](http://www.ximalaya.com/72456289/album/6648521)
+- 网易云音乐： [科技聚变\(TechFusion\)](http://music.163.com/#/djradio?id=347498120)
 - Soundcloud:[科技聚变\(TechFusion\)](https://soundcloud.com/techfusion)
 
+#### 如何支持我们？
+捐助会很快开通。
