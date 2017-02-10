@@ -5,7 +5,7 @@ date: 2017-02-01 00:00:00
 #### 如何订阅节目？
 您可以在您的播客客户端直接搜索 「TechFusion」，「科技聚变」或输入下述地址来找到我们。
 
-<code><a href = "http://techfusionfm.com/podcast.xml">http://techfusionfm.com/podcast.xml</a></code>
+<code>http://techfusionfm.com/podcast.xml</a></code>
 
 #### 如何使用「泛用型播客客户端」？
 我们您推荐使用**「泛用型播客客户端」**订阅收听节目，不推荐任何第三方的播客平台。因为第三方平台会自行存储和管理音频文件，**我们无法保证第三方平台不会推迟上架、剪切、阉割、篡改甚至下架节目内容**。 泛用型播客客户端只会用 RSS 源从我们的服务器中抓取音频文件，所以您可以在**第一时间收听到完整的节目更新**。
@@ -37,6 +37,7 @@ date: 2017-02-01 00:00:00
 - 喜马拉雅 FM： [科技聚变\(TechFusion\)](http://www.ximalaya.com/72456289/album/6648521)
 - 网易云音乐： [科技聚变\(TechFusion\)](http://music.163.com/#/djradio?id=347498120)
 - Soundcloud:[科技聚变\(TechFusion\)](https://soundcloud.com/techfusion)
+- Google Play: [科技聚变\(TechFusion\)](https://playmusic.app.goo.gl/?ibi=com.google.PlayMusic&isi=691797987&ius=googleplaymusic&link=https://play.google.com/music/m/Ipiouils7kq2tvqibapqnnwsm5u?t%3D%25E7%25A7%2591%25E6%258A%2580%25E8%2581%259A%25E5%258F%2598_(TechFusion)%26pcampaignid%3DMKT-na-all-co-pr-mu-pod-16)
 
 #### 如何支持我们？
 捐助会很快开通。
