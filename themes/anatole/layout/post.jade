@@ -27,11 +27,11 @@ block content
       .pagination
         ul.clearfix
           if prev
-            li.pre.pagbuttons
+            li.next.pagbuttons
               a.btn(role="navigation",href=url_for(prev), title=page.prev.title)!= __('prev_post')
           if page.path == "0"
           else
             if next
-               li.next.pagbuttons
+               li.prev.pagbuttons
                  a.btn(role="navigation",href=url_for(next), title=page.next.title)!= __('next_post')
     include partial/comments
