@@ -23,12 +23,15 @@ block content
         a.fa.fa-twitter(href=url_for("http://twitter.com/home?status="+","+config.url+"/"+page.path+","+config.title+","+page.title+",;"))
     - var prev = page.prev ? page.prev.path : false;
     - var next = page.next ? page.next.path : false; 
-    .pagination
-      ul.clearfix
-        if prev.type == "audio/mpeg"
-          li.pre.pagbuttons
-            a.btn(role="navigation",href=url_for(prev), title=page.prev.title)!= __('prev_post')
-        if next.type == "audio/mpeg"
-          li.next.pagbuttons
-            a.btn(role="navigation",href=url_for(next), title=page.next.title)!= __('next_post')
+    if page.type == "audio/mpeg"
+      .pagination
+        ul.clearfix
+          if prev
+            li.pre.pagbuttons
+              a.btn(role="navigation",href=url_for(prev), title=page.prev.title)!= __('prev_post')
+          if page.path == "0"
+          else
+            if next
+               li.next.pagbuttons
+                 a.btn(role="navigation",href=url_for(next), title=page.next.title)!= __('next_post')
     include partial/comments

@@ -119,6 +119,14 @@ robotstxt:
   allow:
   sitemap: /sitemap.xml 
 
+index_generator:
+  per_page: 0
+  order_by: -date
+  include:
+    - category podcast # 只包含Web分类下的文章
+#  exclude:
+#    - tag Hexo # 不包含标签为Hexo的文章
+
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
