@@ -1,3 +1,4 @@
+
 # Hexo Configuration
 ## Docs: https://hexo.io/docs/configuration.html
 ## Source: https://github.com/hexojs/hexo/
@@ -112,15 +113,11 @@ image_minifier:
 nofollow:
     enable: true
 
-
 robotstxt:
-
   useragent: "*"
-
   disallow:
   allow:
-  sitemap: /sitemap.xml
-
+  sitemap: /sitemap.xml 
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html

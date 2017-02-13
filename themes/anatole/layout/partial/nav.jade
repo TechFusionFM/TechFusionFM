@@ -1,10 +1,7 @@
 .page-top.animated.fadeInDown
   .nav
     li
-      if is_home()
-        a.current(href="/")= __('Home')					
-      else
-        a(href="/")= __('Home')	
+      a(href="/")= __('Home')	
     li
       if is_current('FAQ')
         a.current(href="/faq")= __('FAQ')			
@@ -20,13 +17,3 @@
         a.current(href="/donate")= __('Donate')					
       else
         a(href="/donate")= __('Donate')	
-        
-  .information
-    .back_btn
-      li
-        if is_post()
-          a.fa.fa-chevron-left(onclick="window.history.go(-1)") 
-        else
-          a.fa.fa-chevron-left(onclick="window.history.go(-1)",style="display:none;") 
-    .avatar
-      img(src=theme.avatar)
