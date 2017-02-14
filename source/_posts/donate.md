@@ -11,8 +11,9 @@ tags:
 <script>
 var handler = StripeCheckout.configure({
   key: 'pk_test_aY5X2YH9tACaTWGprK6kRB4Y',
-  image: 'https://stripe.com/img/documentation/checkout/marketplace.png',
-  locale: 'auto',
+  image: '/images/logo@2x.png',
+  locale: 'zh',
+  alipay:true,
   token: function(token) {
     // You can access the token ID with `token.id`.
     // Get the token ID to your server-side code for use.
@@ -22,10 +23,11 @@ var handler = StripeCheckout.configure({
 document.getElementById('customButton').addEventListener('click', function(e) {
   // Open Checkout with further options:
   handler.open({
-    name: 'zhang96',
-    description: '2 widgets',
-    currency: 'cad',
-    amount: 2000
+    name: 'TechFusionFM.com',
+    description: 'Testing DO NOT DONATE.',
+    currency: 'usd',
+    amount: 99
+ 
   });
   e.preventDefault();
 });
