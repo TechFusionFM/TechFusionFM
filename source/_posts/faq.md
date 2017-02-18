@@ -30,6 +30,7 @@ date: 2017-02-01 00:00:00
 - Twitter： [@TechFusionFM](http://twitter.com/TechFusionFM)
 - Instagram： [@TechFusionFM](http://instagram.com/TechFusionFM)
 - 新浪微博： [@TechFusionFM](http://weibo.com/TechFusionFM)
+- Telegram Channel: [TechFusionFM](http://telegram.me/techfusionfm)
 - 电子邮件： [Hi@TechFusionFM.com](mailto:hi@TechFusionFM.com)
 - Podcasts： [科技聚变\(TechFusion\)](https://itunes.apple.com/cn/podcast/id1202658654)
 - Pocket Casts： [科技聚变\(TechFusion\)](http://pca.st/podcast/28fcd200-cc7c-0134-10da-25324e2a541d)
