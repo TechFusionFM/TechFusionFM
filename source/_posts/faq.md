@@ -1,11 +1,11 @@
-https://www.zhihu.com/people/techfusion/pins/posts---
+---
 title: 订阅及常见问题解答 (FAQ)
 date: 2017-02-01 00:00:00
 ---
 #### 如何订阅节目？
 您可以在您的播客客户端直接搜索 「TechFusion」，「科技聚变」或输入下述地址来找到我们。
 
-<code>http://techfusionfm.com/podcast.xml/code>
+<code>http://techfusionfm.com/podcast.xml</code>
 
 #### 如何使用「泛用型播客客户端」？
 我们您推荐使用**「泛用型播客客户端」**订阅收听节目，不推荐任何第三方的播客平台。因为第三方平台会自行存储和管理音频文件，**我们无法保证第三方平台不会推迟上架、剪切、阉割、篡改甚至下架节目内容**。 泛用型播客客户端只会用 RSS 源从我们的服务器中抓取音频文件，所以您可以在**第一时间收听到完整的节目更新**。
