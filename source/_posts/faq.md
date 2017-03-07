@@ -38,10 +38,11 @@ date: 2017-02-01 00:00:00
 - 荔枝 FM： [科技聚变\(TechFusion\)](https://www.lizhi.fm/1494013/)
 - 喜马拉雅 FM： [科技聚变\(TechFusion\)](http://www.ximalaya.com/72456289/album/6648521)
 - 网易云音乐： [科技聚变\(TechFusion\)](http://music.163.com/#/djradio?id=347498120)
-- <del>Soundcloud:[科技聚变\(TechFusion\)](https://soundcloud.com/techfusion)</del>
 - YouTube: [科技聚变 TechFusion](https://www.youtube.com/channel/UC6uvHf21Tjm5lepw6P2Ki-Q)
 - 优酷: [科技聚变-TechFusion](http://i.youku.com/techfusion)
 - 土豆: [科技聚变-TechFusion](http://www.tudou.com/home/TechFusion)
 - Google Play Music: [科技聚变\(TechFusion\)](https://playmusic.app.goo.gl/?ibi=com.google.PlayMusic&isi=691797987&ius=googleplaymusic&link=https://play.google.com/music/m/Ipiouils7kq2tvqibapqnnwsm5u?t%3D%25E7%25A7%2591%25E6%258A%2580%25E8%2581%259A%25E5%258F%2598_%28TechFusion%29%26pcampaignid%3DMKT-na-all-co-pr-mu-pod-16)
+- <del>Soundcloud:[科技聚变\(TechFusion\)](https://soundcloud.com/techfusion)</del>
+
 #### 如何支持我们？
 捐助会很快开通。
