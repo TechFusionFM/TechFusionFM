@@ -29,8 +29,9 @@ date: 2017-02-01 00:00:00
 
 - Twitter： [@TechFusionFM](http://twitter.com/TechFusionFM)
 - Instagram： [@TechFusionFM](http://instagram.com/TechFusionFM)
-- Telegram Channel: [TechFusionFM](http://telegram.me/techfusionfm)
-- 知乎：[科技聚变播客](https://www.zhihu.com/people/techfusion/pins/posts)
+- Telegram 通知频道: [TechFusionFM](https://t.me/TechFusionFM)
+- Telegram 听众群: [TechFusionFM](https://t.me/TechFusionChat)
+- 知乎：[科技聚变](https://www.zhihu.com/people/techfusion/activities)
 - 新浪微博： [@TechFusionFM](http://weibo.com/TechFusionFM)
 - 电子邮件： [Hi@TechFusionFM.com](mailto:hi@TechFusionFM.com)
 - Podcasts： [科技聚变\(TechFusion\)](https://itunes.apple.com/cn/podcast/id1202658654)
