@@ -23,7 +23,7 @@ date: 2017-02-01 00:00:00
 
 - Twitter： [@TechFusionFM](http://twitter.com/TechFusionFM)
 - Instagram： [@TechFusionFM](http://instagram.com/TechFusionFM)
-- Telegram 通知频道: [@TechFusionFM](https://t.me/TechFusionFM)
+- Telegram 通知频道: [@TechFusion](https://t.me/TechFusion)
 - Telegram 听众群: [@TechFusionChat](https://t.me/TechFusionChat)
 - 知乎：[科技聚变](https://www.zhihu.com/people/techfusion/activities)
 - 新浪微博： [@科技聚变-TechFusion](http://weibo.com/TechFusionFM)
