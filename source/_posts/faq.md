@@ -40,16 +40,15 @@ date: 2017-02-01 00:00:00
 - <del>Soundcloud:[科技聚变\(TechFusion\)](https://soundcloud.com/techfusion)</del>
 
 #### 如何支持我们？
-- 我们的节目以免费形式向所有听众发布，如果您喜欢我们的节目并希望我们一直做下去， 推荐您[为我们捐款](https://techfusionfm.com/donate)。
-我们的节目以免费形式向所有听众发布，如果您喜欢我们的节目并希望我们一直做下去， 推荐您为我们捐款。我们会每月两次将每笔捐赠的留言、时间、金额以匿名的形式发布。
+- 我们的节目以免费形式向所有听众发布，如果您喜欢我们的节目并希望我们一直做下去， 推荐您为我们捐款。我们会每月两次将每笔捐赠的留言、时间、金额以匿名的形式发布。
 
 ##### 支付宝
-<a href = "https://qr.alipay.com/FKX09288AJOENI0MVZXM12"><img src="https://techfusionfm.com/images/Alipay.svg" width="120px"></button></a>
+<a href = "https://qr.alipay.com/FKX09288AJOENI0MVZXM12"><img src="https://techfusionfm.com/images/Alipay.svg" width="200px"></button></a>
 - 您可以在捐款页面自由选择金额
 - 您也可以直接扫描[本链接提供的二维码](https://techfusionfm.com/images/QR.JPG)。
 
 ##### PayPal
-<a href = "https://paypal.me/techfusionfm/5"><img src="https://techfusionfm.com/images/Paypal.svg" width="120px"></button></a>
+<a href = "https://paypal.me/techfusionfm/5"><img src="https://techfusionfm.com/images/Paypal.svg" width="200px"></button></a>
 - 您可以在捐款页面自由选择币种和金额
 
 
