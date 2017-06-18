@@ -3,53 +3,35 @@ title: 订阅及常见问题解答 (FAQ)
 date: 2017-02-01 00:00:00
 ---
 #### 如何订阅节目？
-您可以在您的播客客户端直接搜索 「TechFusion」，「科技聚变」或输入下述地址来找到我们。
-
+您可以在您的播客客户端直接搜索 「TechFusion」，「科技聚变」或输入下述 RSS 地址来找到我们。
 <code>https://techfusionfm.com/podcast.xml</code>
+如果您使用下列泛用型播客客户端，直接点击即可订阅：
+<a href = "https://itunes.apple.com/cn/podcast/%E7%A7%91%E6%8A%80%E8%81%9A%E5%8F%98-techfusion/id1202658654?mt=2"><img src="/images/Apple-Podcast-Icon-BW.svg"></a><span style="padding: 3px"></span><a href = "http://pca.st/podcast/28fcd200-cc7c-0134-10da-25324e2a541d"><img src="/images/Pocket-Casts-Icon-BW.svg"></a><span style="padding: 3px"></span><a href = "https://overcast.fm/itunes1202658654/techfusion"><img src="/images/Overcast-Icon-BW.svg"></a><span style="padding: 3px"></span><a href = "https://playmusic.app.goo.gl/?ibi=com.google.PlayMusic&isi=691797987&ius=googleplaymusic&link=https://play.google.com/music/m/Ipiouils7kq2tvqibapqnnwsm5u?t%3D%25E7%25A7%2591%25E6%258A%2580%25E8%2581%259A%25E5%258F%2598_%28TechFusion%29%26pcampaignid%3DMKT-na-all-co-pr-mu-pod-16"><img src="/images/Play-Music-Icon-BW.svg"></a>
 
-#### 如何使用「泛用型播客客户端」？
-我们您推荐使用**「泛用型播客客户端」**订阅收听节目，不推荐任何第三方的播客平台。因为第三方平台会自行存储和管理音频文件，**我们无法保证第三方平台不会推迟上架、剪切、阉割、篡改甚至下架节目内容**。 泛用型播客客户端只会用 RSS 源从我们的服务器中抓取音频文件，所以您可以在**第一时间收听到完整的节目更新**。
-
+#### 为什么使用「泛用型播客客户端」？
+我们您推荐使用**「泛用型播客客户端」**订阅收听节目，不推荐任何第三方的播客平台。因为第三方平台会自行存储和管理音频文件，**我们无法保证第三方平台不会推迟上架、剪切、阉割、篡改甚至下架节目内容**。 使用泛用型播客客户端时您可以**在第一时间收听到完整的节目更新**，也同时避免第三方平台插入广告等不必要的信息。
 以下是我们推荐的**泛用型播客客户端**及其下载链接，**直接点击**即可：
-
 <style>table {border-collapse: collapse;text-align: center;}th, td {width="100px" padding: 5px;border: 1px solid #ddd; width:21px;}tr:hover {background-color: #f5f5f5}</style><table style="width:100%"><tr><th rowspan="2"></th><th colspan="3">移动设备</th><th colspan="3">桌面设备</th><th rowspan="2"><i class="fa fa-dollar" aria-hidden="true"></i><tr><th><i class="fa fa-apple" aria-hidden="true"></i></th><th><i class="fa fa-android" aria-hidden="true"></i>*</th><th><i class="fa fa-windows" aria-hidden="true"></i></th><th><i class="fa fa-apple" aria-hidden="true"></i></th><th><i class="fa fa-windows" aria-hidden="true"></i></th><th><i class="fa fa-linux" aria-hidden="true"></i></th></th></tr><tr><td><a href="https://itunes.apple.com/cn/podcast/%E7%A7%91%E6%8A%80%E8%81%9A%E5%8F%98-techfusion/id1202658654?mt=2">Apple Podcasts</a></td><td style="background-color:#dff0d8">&#10004;</td><td style="background-color:#f2dede"></td><td style="background-color:#f2dede"></td><td style="background-color:#dff0d8">&#10004;</td><td style="background-color:#dff0d8">&#10004;</td><td style="background-color:#f2dede"></td><td>免费</td></tr><tr><td><a href = "http://www.shiftyjelly.com/android/pocketcasts">Pocket Casts</a></td><td style="background-color:#dff0d8">&#10004;</td><td style="background-color:#dff0d8">&#10004;</td><td style="background-color:#dff0d8">&#10004;</td><td style="background-color:#dff0d8">&#10004;</td><td style="background-color:#dff0d8">&#10004;</td><td style="background-color:#dff0d8">&#10004;</td><td>$3.99<br>网页：$9</td></tr><tr><td><a href = "https://overcast.fm/">Overcast</a></td><td style="background-color:#dff0d8">&#10004;</td><td style="background-color:#f2dede"></td><td style="background-color:#f2dede"></td><td style="background-color:#dff0d8">&#10004;</td><td style="background-color:#dff0d8">&#10004;</td><td style="background-color:#dff0d8">&#10004;</td><td>免费</td></tr><tr><td><a href = "http://supertop.co/castro/">Castro</a></td><td style="background-color:#dff0d8">&#10004;</td><td style="background-color:#f2dede"></td><td style="background-color:#f2dede"></td><td style="background-color:#f2dede"></td><td style="background-color:#f2dede"></td><td style="background-color:#f2dede"></td><td>$3.99</td></tr><tr><td><a href = "https://breaker.audio/">Breaker</a></td><td style="background-color:#dff0d8">&#10004;</td><td style="background-color:#f2dede"></td><td style="background-color:#f2dede"></td><td style="background-color:#f2dede"></td><td style="background-color:#f2dede"></td><td style="background-color:#f2dede"></td><td>免费</td></tr><tr><td><a href = "http://antennapod.org/">AntennaPod</a></td><td style="background-color:#f2dede"></td><td style="background-color:#dff0d8">&#10004;</td><td style="background-color:#f2dede"></td><td style="background-color:#f2dede"></td><td style="background-color:#f2dede"></td><td style="background-color:#f2dede"></td><td>免费</td></tr><tr><td><a href = "http://castbox.fm/">CastBox</a></td><td style="background-color:#dff0d8">&#10004;</td><td style="background-color:#dff0d8">&#10004;</td><td style="background-color:#f2dede"></td><td style="background-color:#f2dede"></td><td style="background-color:#f2dede"></td><td style="background-color:#f2dede"></td><td>免费</td></tr><tr><td><a href = "https://podcastaddict.uservoice.com/">Podcast Addict</a></td><td style="background-color:#f2dede"></td><td style="background-color:#dff0d8">&#10004;</td><td style="background-color:#f2dede"></td><td style="background-color:#f2dede"></td><td style="background-color:#f2dede"></td><td style="background-color:#f2dede"></td><td>免费</td></tr></table>
-
 \*Android 用户请在 Google Play Store 下载上述客户端，除 Google Play Store 外的第三方应用市场下载的 App很可能会对您的[个人信息安全造成威胁](https://blog.avast.com/2015/10/09/more-malware-found-on-third-party-app-stores/)。
-
+\*\*如果您只使用非泛用型播客客户端，您也可以点击下方「如何在其他平台上找到我们？」中的链接订阅。
 
 #### 如何在其他平台上找到我们？
 直接点击网页<i class="fa fa-arrow-circle-o-up" aria-hidden="true"></i>上方或<i class="fa fa-arrow-circle-o-left" aria-hidden="true"></i>左方一排社交网站 Logo 或点击下方链接：
-
-
-- Twitter： [@TechFusionFM](http://twitter.com/TechFusionFM)
-- Instagram： [@TechFusionFM](http://instagram.com/TechFusionFM)
-- Telegram 通知频道: [@TechFusion](https://t.me/TechFusion)
-- Telegram 听众群: [@TechFusionChat](https://t.me/TechFusionChat)
-- 知乎：[科技聚变](https://www.zhihu.com/people/techfusion/activities)
-- 新浪微博： [@科技聚变-TechFusion](http://weibo.com/TechFusionFM)
-- 电子邮件： [Hi@TechFusionFM.com](mailto:hi@TechFusionFM.com)
-- Podcasts： [科技聚变\(TechFusion\)](https://itunes.apple.com/cn/podcast/id1202658654)
-- Pocket Casts： [科技聚变\(TechFusion\)](http://pca.st/podcast/28fcd200-cc7c-0134-10da-25324e2a541d)
-- 荔枝 FM： [科技聚变\(TechFusion\)](https://www.lizhi.fm/1494013/)
-- 喜马拉雅 FM： [科技聚变\(TechFusion\)](http://www.ximalaya.com/72456289/album/6648521)
-- 网易云音乐： [科技聚变\(TechFusion\)](http://music.163.com/#/djradio?id=347498120)
-- YouTube: [科技聚变 TechFusion](https://www.youtube.com/channel/UC6uvHf21Tjm5lepw6P2Ki-Q)
-- 优酷: [科技聚变-TechFusion](http://i.youku.com/techfusion)
-- 土豆: [科技聚变-TechFusion](http://www.tudou.com/home/TechFusion)
-- Google Play Music: [科技聚变\(TechFusion\)](https://playmusic.app.goo.gl/?ibi=com.google.PlayMusic&isi=691797987&ius=googleplaymusic&link=https://play.google.com/music/m/Ipiouils7kq2tvqibapqnnwsm5u?t%3D%25E7%25A7%2591%25E6%258A%2580%25E8%2581%259A%25E5%258F%2598_%28TechFusion%29%26pcampaignid%3DMKT-na-all-co-pr-mu-pod-16)
-- <del>Soundcloud:[科技聚变\(TechFusion\)](https://soundcloud.com/techfusion)</del>
+社交平台：
+<a href = "http://twitter.com/TechFusionFM"><img src="/images/Twitter-Badge-BW.svg"></a><span style="padding: 3px"></span><a href = "http://weibo.com/TechFusionFM"><img src="/images/Weibo-Badge-BW.svg"></a><span style="padding: 3px"></span><a href = "http://instagram.com/TechFusionFM"><img src="/images/Instagram-Badge-BW.svg"></a><span style="padding: 3px"></span><a href = "https://https://t.me/TechFusion"><img src="/images/Telegram-Channel-Badge-BW.svg"></a><span style="padding: 3px"></span><a href = "https://t.me/TechFusionChat"><img src="/images/Telegram-Chat-Badge-BW.svg"></a><span style="padding: 3px"></span><a href = "https://www.zhihu.com/people/techfusion/activities"><img src="/images/Zhihu-Badge-BW.svg"></a><span style="padding: 3px"></span><a href = "mailto:hi@TechFusionFM.com"><img src="/images/Email-Badge-BW.svg"></a>
+泛用型播客客户端：
+<a href = "https://itunes.apple.com/cn/podcast/%E7%A7%91%E6%8A%80%E8%81%9A%E5%8F%98-techfusion/id1202658654?mt=2"><img src="/images/Apple-Podcast-Badge-BW.svg"></a><span style="padding: 3px"></span><a href = "http://pca.st/podcast/28fcd200-cc7c-0134-10da-25324e2a541d"><img src="/images/Pocket-Casts-Badge-BW.svg"></a><span style="padding: 3px"></span><a href = "https://overcast.fm/itunes1202658654/techfusion"><img src="/images/Overcast-Badge-BW.svg"></a><span style="padding: 3px"></span><a href = "https://playmusic.app.goo.gl/?ibi=com.google.PlayMusic&isi=691797987&ius=googleplaymusic&link=https://play.google.com/music/m/Ipiouils7kq2tvqibapqnnwsm5u?t%3D%25E7%25A7%2591%25E6%258A%2580%25E8%2581%259A%25E5%258F%2598_%28TechFusion%29%26pcampaignid%3DMKT-na-all-co-pr-mu-pod-16"><img src="/images/Play-Music-Badge-BW.svg"></a>
+非泛用型播客客户端：
+<a href = "https://www.lizhi.fm/1494013/"><img src="/images/LizhiFM-Badge-BW.svg"></a><span style="padding: 3px"></span><a href = "http://www.ximalaya.com/72456289/album/6648521"><img src="/images/Ximalaya-Badge-BW.svg"></a><span style="padding: 3px"></span><a href = "http://music.163.com/#/djradio?id=347498120"><img src="/images/163-Music-Badge-BW.svg"></a><span style="padding: 3px"></span><a href = "https://soundcloud.com/techfusion"><img src="/images/SoundCloud-Badge-BW.svg"></a>
+视频网站：
+<a href = "https://www.youtube.com/channel/UC6uvHf21Tjm5lepw6P2Ki-Q"><img src="/images/YouTube-Badge-BW.svg"></a><span style="padding: 3px"></span><a href = "http://i.youku.com/techfusion"><img src="/images/Youku-Badge-BW.svg"></a><span style="padding: 3px"></span><a href = "http://www.tudou.com/home/TechFusion"><img src="/images/Tudou-Badge-BW.svg"></a>
 
 #### 如何支持我们？
-- 我们的节目以免费形式向所有听众发布，如果您喜欢我们的节目并希望我们一直做下去， 推荐您为我们捐款。我们会每月两次将每笔捐赠的留言、时间、金额以匿名的形式发布。
+- 在 [iTunes](https://itunes.apple.com/cn/podcast/id1202658654) 上为我们留言。
+- 订阅，分享，参与我们在社交媒体上的讨论。
+- 我们的节目以免费形式向所有听众发布，如果您喜欢我们的节目并希望我们一直做下去， 推荐您通过支付宝和 PayPal 为我们捐款。我们会每月两次将每笔捐款的留言、时间、金额以匿名的形式发布。
 
-<a href = "https://qr.alipay.com/FKX09288AJOENI0MVZXM12"><img src="https://techfusionfm.com/images/Alipay.svg" width="200px"></button></a>
-- 您可以在捐款页面自由选择金额
-- 您也可以直接扫描[本链接提供的二维码](https://techfusionfm.com/images/QR.JPG)。
-
-<a href = "https://paypal.me/techfusionfm/5"><img src="https://techfusionfm.com/images/Paypal.svg" width="200px"></button></a>
-- 您可以在捐款页面自由选择币种和金额
-
-其他问题请发邮件到 hi@TechFusionFM.com。
+<a href = "https://qr.alipay.com/FKX09288AJOENI0MVZXM12"><img src="/images/Alipay-Phone.svg"></a><span style="padding: 3px"></span><a href = "https://techfusionfm.com/images/QR.JPG"><img src="/images/Alipay-PC.svg"></a><span style="padding: 3px"></span><a href = "https://paypal.me/techfusionfm/5"><img src="/images/Paypal-Phone.svg"></a>
 
 #### 其他
 商业合作及其他问题请发邮件到 hi@TechFusionFM.com。

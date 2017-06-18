@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="34px" height="34px" viewBox="0 0 34 34" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>LizhiFM Icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="3.26861925%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#F26681" offset="0%"></stop>
+            <stop stop-color="#C92F30" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard-Copy-4" transform="translate(-433.000000, -978.000000)">
+            <g id="LizhiFM-Icon" transform="translate(433.000000, 978.000000)">
+                <rect id="Rectangle-2" fill="url(#linearGradient-1)" x="0" y="0" width="34" height="34" rx="8"></rect>
+                <polygon id="Path-4" fill="#FFFFFF" points="17.0094965 5.69633611 15.6787823 6.29573995 16.3554309 6.62062725 15.9108264 8.49620759 12.5469958 9.59104558 8.71936423 11.9826958 7 16.099876 7.35231645 20.9426482 9.80192689 24.7358121 12.7066134 27.6979356 17.0000618 28.7329751 21.1737809 27.6979356 24.1246039 24.7358121 26.5859603 20.9426482 27 16.099876 25.1872876 11.9826958 21.3996636 9.59104558 18.0677659 8.49620759 17.6417281 6.62062725 18.276408 6.29573995"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>
