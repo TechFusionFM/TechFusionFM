@@ -6,7 +6,6 @@ tags:
 
 我们的节目以免费形式向所有听众发布，如果您喜欢我们的节目并希望我们一直做下去， 推荐您为我们捐款。我们会每月两次将每笔捐赠的留言、时间、金额以匿名的形式发布。
 
-- 我们的节目以免费形式向所有听众发布，如果您喜欢我们的节目并希望我们一直做下去， 推荐您通过支付宝和 PayPal 为我们捐款。我们会每月两次将每笔捐款的留言、时间、金额以匿名的形式发布。
 
 <a href = "https://qr.alipay.com/FKX09288AJOENI0MVZXM12"><img src="https://TechFusionFM.com/images/Alipay-Phone.svg"></a><span style="padding: 3px"></span><a href = "https://techfusionfm.com/images/QR.JPG"><img src="https://TechFusionFM.com/images/Alipay-PC.svg"></a><span style="padding: 3px"></span><a href = "https://paypal.me/techfusionfm/5"><img src="https://TechFusionFM.com/images/Paypal-Phone.svg"></a>
 
