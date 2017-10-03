@@ -7,3 +7,5 @@ public/
 node_modules/*
 !node_modules/hexo-generator-podcast/
 source/audio/*
+*.out
+*.pyc
