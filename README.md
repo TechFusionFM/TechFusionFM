@@ -1,5 +1,6 @@
 # TechFusionFM
 Podcast hosting and feed generation website for TechFusionFM.com. Based on [Hexo](https://hexo.io), and theme [Anatole](https://github.com/hi-caicai/farbox-theme-Anatole). 
+
 The website is the exact the same as deployed to https://TechFusionFM.com but static.
 
 ### Deployment
@@ -21,8 +22,13 @@ $ sh autodep.sh
 
 ### Author
 CMS:       [Hexo](https://hexo.io)
-Based on:  [Anatole](https://github.com/hi-caicai/farbox-theme-Anatole)
-The content including but not limited to text displayed on the website, pictures and logos, audio files, [TechFusionFM.com](https://TechFusionFM.com) have exclusive right to them unless authorized. No individual shall 
+
+Theme Based on:  [Anatole](https://github.com/hi-caicai/farbox-theme-Anatole)
+
+Telegram Bot, Custom Deployment Script, Show Notes, Custom XML Parser and Theme Customization: [Fengwei Jerry Zhang - zhang96](https://github.com/zhang96)
+
+
+The content including but not limited to text displayed on the website, pictures and logos, audio files, [TechFusionFM.com](https://TechFusionFM.com) have exclusive right to them unless authorized. 
 
 ### License
 
