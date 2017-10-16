@@ -40,4 +40,4 @@ while True:
     r = requests.get("https://api.telegram.org/bot370638413:AAHrBMWdw1QzNP6LJ2HBZqfhbrislpOv_4g/sendMessage?text=TechFusion%20is%20now%20at%20%23"+ str(counter) +"%20place%20on%20iTunes%20All%20Podcasts.&chat_id=-1001126950310")
     print(r.status_code, r.reason)
     os.remove("xml")
-    time.sleep(300)
+    time.sleep(600)
