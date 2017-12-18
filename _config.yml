@@ -110,9 +110,6 @@ image_minifier:
   pngquant: false
   progressive: false
 
-nofollow:
-    enable: true
-
 robotstxt:
   useragent: "*"
   disallow:
