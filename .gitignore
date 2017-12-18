@@ -12,3 +12,4 @@ source/audio/*
 telebot/nohup.out
 telebot/*.pyc
 telebot/*.tmp
+*.out
