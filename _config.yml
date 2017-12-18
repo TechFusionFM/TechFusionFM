@@ -117,7 +117,7 @@ robotstxt:
   sitemap: /sitemap.xml 
 
 nofollow:
-    enable: true
+  enable: true
 
 index_generator:
   per_page: 0
