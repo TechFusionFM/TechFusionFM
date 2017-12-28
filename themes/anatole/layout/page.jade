@@ -7,6 +7,10 @@ block description
     - var desc = page.desc || strip_html(page.content).replace(/^\s*/, '').replace(/\s*$/, '').substring(0, 150);
     meta(name="description", content=desc)
 
+if page.type == "audio/mpeg"
+      audio(controls='', class="audioPlayer" , autoplay='', preload="none")
+      source(src=page.media, type='audio/mpeg')
+
 block content
   .autopagerize_page_element: .content: .post-page
     include mixins
