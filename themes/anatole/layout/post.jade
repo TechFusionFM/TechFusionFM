@@ -13,6 +13,11 @@ block content
   .autopagerize_page_element: .content: .post-page
     include mixins
     +make_post(page, true)
+    
+    if page.type == "audio/mpeg"
+      audio(controls='', autoplay='' preload="none")
+      source(src='page.media', type='audio/mpeg')
+    
     .share
       if page.type == "audio/mpeg"
         .download 
