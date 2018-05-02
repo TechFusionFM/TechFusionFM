@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="3000px" height="3000px" viewBox="0 0 3000 3000" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
-    <title>Group</title>
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>SANS TEXT</title>
     <desc>Created with Sketch.</desc>
     <defs></defs>
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <g id="SANS-TEXT" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="Group">
-            <g>
-                <rect id="Rectangle" fill="#000000" x="0" y="0" width="3000" height="3000"></rect>
-                <g id="Group-2" transform="translate(343.000000, 343.000000)">
-                    <circle id="Oval" fill-opacity="0.749518795" fill="#FFFFFF" transform="translate(808.204819, 808.204819) rotate(10.000000) translate(-808.204819, -808.204819) " cx="808.204819" cy="808.204819" r="697.590361"></circle>
-                    <circle id="Oval" fill-opacity="0.75" fill="#9B9B9B" transform="translate(1505.795181, 1505.795181) rotate(10.000000) translate(-1505.795181, -1505.795181) " cx="1505.79518" cy="1505.79518" r="697.590361"></circle>
-                </g>
+            <g fill="#FFFFFF" id="Rectangle">
+                <rect x="0" y="0" width="3000" height="3000"></rect>
+            </g>
+            <g id="Group-2" transform="translate(394.000000, 398.000000)">
+                <ellipse id="Oval" fill="#4A4A4A" transform="translate(772.566265, 770.421687) rotate(10.000000) translate(-772.566265, -770.421687) " cx="772.566265" cy="770.421687" rx="666.86747" ry="664.156627"></ellipse>
+                <ellipse id="Oval" fill-opacity="0.75" fill="#9B9B9B" transform="translate(1439.433735, 1434.578313) rotate(10.000000) translate(-1439.433735, -1434.578313) " cx="1439.43373" cy="1434.57831" rx="666.86747" ry="664.156627"></ellipse>
             </g>
         </g>
     </g>
