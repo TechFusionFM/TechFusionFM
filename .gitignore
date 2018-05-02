@@ -6,6 +6,7 @@ public/
 .deploy*/
 node_modules/*
 !node_modules/hexo-generator-podcast/
+!node_modules/hexo-renderer-marked/
 source/audio/*
 *.out
 *.pyc
