@@ -12,8 +12,6 @@ block description
 block content
   .autopagerize_page_element: .content: .post-page
     include mixins
-    if page.type == "audio/mpeg"
-      audio(controls='', class="audioPlayer" , autoplay='', preload="none" src=page.media, type='audio/mpeg')
     +make_post(page, true)
     .share
       if page.type == "audio/mpeg"
