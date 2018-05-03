@@ -1,18 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="133px" height="34px" viewBox="0 0 133 34" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
     <title>LizhiFM-Badge-BW</title>
     <desc>Created with Sketch.</desc>
-    <defs></defs>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="133" height="34" rx="8"></rect>
+    </defs>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Artboard-Copy-4" transform="translate(-661.000000, -978.000000)">
-            <g id="BnW" transform="translate(621.000000, 784.000000)">
+        <g id="BUTTONS" transform="translate(-850.000000, -978.000000)">
+            <g id="BnW" transform="translate(810.000000, 784.000000)">
                 <g id="LizhiFM-Badge-BW" transform="translate(40.000000, 194.000000)">
-                    <rect id="Rectangle-2" fill="#4A4A4A" x="0" y="0" width="133" height="34" rx="8"></rect>
-                    <text id="荔枝-FM" font-family="PingFangTC-Medium, PingFang TC" font-size="12" font-weight="400" fill="#FFFFFF">
+                    <g id="Rectangle-2">
+                        <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                        <rect stroke="#000000" stroke-width="1" x="0.5" y="0.5" width="132" height="33" rx="8"></rect>
+                    </g>
+                    <text id="荔枝-FM" font-family="PingFangTC-Medium, PingFang TC" font-size="12" font-weight="400" fill="#4A4A4A">
                         <tspan x="80" y="21">荔枝 FM</tspan>
                     </text>
-                    <polygon id="Path-4" fill="#FFFFFF" points="17.0075972 8 15.9430259 8.47952307 16.4843447 8.73943292 16.1286611 10.2398972 13.4375967 11.1157676 10.3754914 13.0290878 9 16.322832 9.28185316 20.1970497 11.2415415 23.2315808 13.5652907 25.6012796 17.0000494 26.4293112 20.3390247 25.6012796 22.6996831 23.2315808 24.6687682 20.1970497 25 16.322832 23.5498301 13.0290878 20.5197309 11.1157676 17.8542127 10.2398972 17.5133825 8.73943292 18.0211264 8.47952307"></polygon>
+                    <polygon id="Path-4" fill="#4A4A4A" points="17.0075972 8 15.9430259 8.47952307 16.4843447 8.73943292 16.1286611 10.2398972 13.4375967 11.1157676 10.3754914 13.0290878 9 16.322832 9.28185316 20.1970497 11.2415415 23.2315808 13.5652907 25.6012796 17.0000494 26.4293112 20.3390247 25.6012796 22.6996831 23.2315808 24.6687682 20.1970497 25 16.322832 23.5498301 13.0290878 20.5197309 11.1157676 17.8542127 10.2398972 17.5133825 8.73943292 18.0211264 8.47952307"></polygon>
                 </g>
             </g>
         </g>

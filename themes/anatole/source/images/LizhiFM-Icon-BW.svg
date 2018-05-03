@@ -1,15 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="34px" height="34px" viewBox="0 0 34 34" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
     <title>LizhiFM-Icon-BW</title>
     <desc>Created with Sketch.</desc>
-    <defs></defs>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="34" height="34" rx="8"></rect>
+    </defs>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Artboard-Copy-4" transform="translate(-621.000000, -977.000000)">
-            <g id="BnW" transform="translate(621.000000, 784.000000)">
+        <g id="BUTTONS" transform="translate(-810.000000, -977.000000)">
+            <g id="BnW" transform="translate(810.000000, 784.000000)">
                 <g id="LizhiFM-Icon-BW" transform="translate(0.000000, 193.000000)">
-                    <rect id="Rectangle-2" fill="#4A4A4A" x="0" y="0" width="34" height="34" rx="8"></rect>
-                    <polygon id="Path-4" fill="#FFFFFF" points="17.0094965 5.69633611 15.6787823 6.29573995 16.3554309 6.62062725 15.9108264 8.49620759 12.5469958 9.59104558 8.71936423 11.9826958 7 16.099876 7.35231645 20.9426482 9.80192689 24.7358121 12.7066134 27.6979356 17.0000618 28.7329751 21.1737809 27.6979356 24.1246039 24.7358121 26.5859603 20.9426482 27 16.099876 25.1872876 11.9826958 21.3996636 9.59104558 18.0677659 8.49620759 17.6417281 6.62062725 18.276408 6.29573995"></polygon>
+                    <g id="Rectangle-2">
+                        <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                        <rect stroke="#4A4A4A" stroke-width="1" x="0.5" y="0.5" width="33" height="33" rx="8"></rect>
+                    </g>
+                    <polygon id="Path-4" fill="#4A4A4A" points="17.0094965 5.69633611 15.6787823 6.29573995 16.3554309 6.62062725 15.9108264 8.49620759 12.5469958 9.59104558 8.71936423 11.9826958 7 16.099876 7.35231645 20.9426482 9.80192689 24.7358121 12.7066134 27.6979356 17.0000618 28.7329751 21.1737809 27.6979356 24.1246039 24.7358121 26.5859603 20.9426482 27 16.099876 25.1872876 11.9826958 21.3996636 9.59104558 18.0677659 8.49620759 17.6417281 6.62062725 18.276408 6.29573995"></polygon>
                 </g>
             </g>
         </g>

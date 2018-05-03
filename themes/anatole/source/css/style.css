@@ -105,7 +105,8 @@ background-color:#fff;
   z-index: 3;
   background-color: #fff;
   height: 60px;
-  border-bottom: 1px solid #f2f2f2; }
+  border-bottom: 1px solid #f2f2f2; 
+  box-shadow: 0 1px 5px #f2f2f2;}
   .page-top .nav {
     list-style: none;
     padding: 18px 30px;
@@ -565,7 +566,9 @@ a.btn {
 display:block;}
 
   .page-top {
-    width: 100%; }
+    width: 100%;
+    box-shadow: 0 1px 5px #f2f2f2; 
+    box-shadow: 0 1px 5px #f2f2f2;}
 
   .post-title h3 {
     line-height: 1.6; }

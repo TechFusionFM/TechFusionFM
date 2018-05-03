@@ -1,23 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="133px" height="34px" viewBox="0 0 133 34" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
     <title>Play-Music-Badge-BW</title>
     <desc>Created with Sketch.</desc>
-    <defs></defs>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="133" height="34" rx="8"></rect>
+    </defs>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Artboard-Copy-4" transform="translate(-662.000000, -1140.000000)">
-            <g id="BnW" transform="translate(621.000000, 784.000000)">
+        <g id="BUTTONS" transform="translate(-851.000000, -1140.000000)">
+            <g id="BnW" transform="translate(810.000000, 784.000000)">
                 <g id="Play-Music-Badge-BW" transform="translate(41.000000, 356.000000)">
-                    <rect id="Rectangle-2" fill="#4A4A4A" x="0" y="0" width="133" height="34" rx="8"></rect>
+                    <g id="Rectangle-2">
+                        <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                        <rect stroke="#4A4A4A" stroke-width="1" x="0.5" y="0.5" width="132" height="33" rx="8"></rect>
+                    </g>
                     <g id="a" transform="translate(9.000000, 8.000000)" fill-rule="nonzero">
-                        <path d="M15.7916667,8.96875 L1.89583333,1.07291667 C1.30208333,0.739583333 0.770833333,0.770833333 0.447916667,1.08333333 L0.447916667,1.08333333 C0.21875,1.30208333 0.09375,1.65625 0.09375,2.11458333 L0.09375,17.875 C0.09375,18.3333333 0.229166667,18.6875 0.447916667,18.90625 L0.447916667,18.90625 C0.78125,19.2291667 1.30208333,19.2604167 1.89583333,18.9166667 L15.7916667,11.0208333 C16.7916667,10.4583333 16.7916667,9.54166667 15.7916667,8.96875 Z" id="Shape" stroke="#FFFFFF"></path>
-                        <path d="M14.4166667,11.8125 C14.5833333,11.2395833 14.6666667,10.625 14.6666667,10 C14.6666667,6.32291667 11.6770833,3.33333333 8,3.33333333 C4.32291667,3.33333333 1.33333333,6.32291667 1.33333333,10 C1.33333333,13.0833333 3.42708333,15.6770833 6.27083333,16.4375 L14.4166667,11.8125 Z" id="Shape" fill="#FFFFFF"></path>
-                        <circle id="Oval" fill="#4A4A4A" cx="8" cy="10" r="4.16666667"></circle>
-                        <g id="Group" transform="translate(5.812500, 7.083333)" fill="#FAFAFA">
+                        <path d="M15.7916667,8.96875 L1.89583333,1.07291667 C1.30208333,0.739583333 0.770833333,0.770833333 0.447916667,1.08333333 C0.21875,1.30208333 0.09375,1.65625 0.09375,2.11458333 L0.09375,17.875 C0.09375,18.3333333 0.229166667,18.6875 0.447916667,18.90625 C0.78125,19.2291667 1.30208333,19.2604167 1.89583333,18.9166667 L15.7916667,11.0208333 C16.7916667,10.4583333 16.7916667,9.54166667 15.7916667,8.96875 Z" id="Shape" stroke="#4A4A4A"></path>
+                        <path d="M14.4166667,11.8125 C14.5833333,11.2395833 14.6666667,10.625 14.6666667,10 C14.6666667,6.32291667 11.6770833,3.33333333 8,3.33333333 C4.32291667,3.33333333 1.33333333,6.32291667 1.33333333,10 C1.33333333,13.0833333 3.42708333,15.6770833 6.27083333,16.4375 L14.4166667,11.8125 Z" id="Shape" fill="#4A4A4A"></path>
+                        <circle id="Oval" fill="#FFFFFF" cx="8" cy="10" r="4.16666667"></circle>
+                        <g id="Group" transform="translate(5.812500, 7.083333)" fill="#4A4A4A">
                             <path d="M2.1875,0.729166667 L2.1875,3.29166667 C2.04166667,3.20833333 1.875,3.15625 1.69791667,3.15625 C1.15625,3.15625 0.729166667,3.59375 0.729166667,4.125 C0.729166667,4.66666667 1.16666667,5.09375 1.69791667,5.09375 C2.23958333,5.09375 2.70833333,4.65625 2.70833333,4.125 L2.70833333,1.77083333 L3.64583333,1.77083333 L3.64583333,0.729166667 L2.1875,0.729166667 Z" id="Shape"></path>
                         </g>
                     </g>
-                    <text id="Play-Music" font-family="PingFangTC-Medium, PingFang TC" font-size="12" font-weight="400" fill="#FFFFFF">
+                    <text id="Play-Music" font-family="PingFangTC-Medium, PingFang TC" font-size="12" font-weight="400" fill="#4A4A4A">
                         <tspan x="64" y="21">Play Music</tspan>
                     </text>
                 </g>
