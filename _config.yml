@@ -4,15 +4,15 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: "科技聚变 (TechFusion)"
-subtitle: "《科技聚变 (TechFusion)》 是一档科技主题播客节目，我们谈论有关互联网的一切。您可以访问 TechFusionFM.com 来找到我们，同时您也可以关注我们的 Twitter, Instagram 或微博 @TechFusionFM 。"
-description: "《科技聚变 (TechFusion)》 是一档科技主题播客节目，我们谈论有关互联网的一切。您可以访问 TechFusionFM.com 来找到我们，同时您也可以关注我们的 Twitter, Instagram 或微博 @TechFusionFM 。"
+title: "科技聚变 TechFusion"
+subtitle: "《科技聚变》（TechFusion） 是一档科技主题播客节目，我们谈论有关互联网的一切。您可以访问 TechFusionFM.com 来找到我们，同时您也可以关注我们的 Twitter, Instagram 或微博 @TechFusionFM 。"
+description: "《科技聚变》（TechFusion）是一档科技主题播客节目，我们谈论有关互联网的一切。您可以访问 TechFusionFM.com 来找到我们，同时您也可以关注我们的 Twitter, Instagram 或微博 @TechFusionFM 。"
 author: "Jerry、Dean"
 keywords: Technology, Tech, China, TechFusionFM, TechFusion, Tech Fusion, 科技播客, 科技, 互联网, IT, 播客, 科技聚变, 聚变, kejijubian, kejijvbian, keji
 language: zh-CN
 timezone: America/New_York
 copyright: "TechFusionFM.com"
-owner: "科技聚变 (TechFusion)"
+owner: "TechFusionFM.com"
 email: "hi@TechFusionFM.com"
 category: Technology
 default_thumb: "/images/logo@2x.png"
@@ -79,6 +79,8 @@ pagination_dir: page
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
 theme: anatole
+# theme: Daily
+
 archive_generator:
   per_page: 0
   yearly: false
@@ -120,9 +122,9 @@ index_generator:
   per_page: 0
   order_by: -date
   include:
-    - category podcast # 只包含Web分类下的文章
+    - category podcast # podcast only on the front page
 #  exclude:
-#    - tag Hexo # 不包含标签为Hexo的文章
+#    - tag Hexo # excluding hexp
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
