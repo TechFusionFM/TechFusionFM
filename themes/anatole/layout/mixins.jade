@@ -18,13 +18,6 @@ mixin make_post(item, is_detail)
 			.info
 				i.fa.fa-calendar
 				span.date= date(item.date, 'YYYY 年 MM 月 DD 日')
-				//- if theme.duoshuo || theme.disqus
-				//- 	i.fa.fa-comment-o
-				//- 	a(href= url_for(item.path + "#comments"))= __('Comments')
-			if item.categories
-				i.fa.fa-tag
-				a.tag(href=config.root + item.path, title= item.categories) = item.categories + " "
-
 
 
 mixin make_pager()
