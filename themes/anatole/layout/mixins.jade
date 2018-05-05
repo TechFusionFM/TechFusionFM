@@ -6,9 +6,9 @@ mixin make_post(item, is_detail)
 					a= item.title
 				else
 					a(href= url_for(item.path))= item.title
-		if page.type == "audio/mpeg"
+		if page.media_type == "audio/mpeg"
 			br
-			audio(controls='', class="audioPlayer" , autoplay='', preload="none" src=page.media, type='audio/mpeg')
+			audio(controls='', class="audioPlayer" , preload="none" src="/" + page.media, type='audio/mpeg')
 		if is_detail
 			.post-content!= item.content
 		else
@@ -18,17 +18,6 @@ mixin make_post(item, is_detail)
 			.info
 				i.fa.fa-calendar
 				span.date= date(item.date, 'YYYY 年 MM 月 DD 日')
-				//- if theme.duoshuo || theme.disqus
-				//- 	i.fa.fa-comment-o
-				//- 	a(href= url_for(item.path + "#comments"))= __('Comments')
-//				if item.tags
-//					i.fa.fa-tag
-//					- item.categories.sort('posts').each(function(item) {
-//							a.tag(href=config.root + item.path, title= item.name)= item.name + " "
-//					- });
-//					- item.tags.sort('posts').each(function(item) {
-//							a.tag(href=config.root + item.path, title= item.name)= item.name + " "
-//					- });
 
 
 mixin make_pager()
