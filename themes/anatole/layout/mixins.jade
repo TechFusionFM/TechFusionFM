@@ -23,9 +23,8 @@ mixin make_post(item, is_detail)
 				//- 	a(href= url_for(item.path + "#comments"))= __('Comments')
 			if item.categories
 				i.fa.fa-tag
-					item.categories.sort('posts').each(function(item) {
-						item.name + " "
-					})
+				a.tag(href=config.root + item.path, title= item.name) = item.name + " "
+
 
 
 mixin make_pager()
