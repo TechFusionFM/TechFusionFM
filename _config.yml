@@ -27,8 +27,8 @@ podcasts:
       author: TechFusionFM.com # defaults to config.author 
       owner: TechFusionFM.com
       email: hi@TchFusionFM.com # e-mail from which iTunes podcast is registered 
-      tags: Technology # the category from iTunes; make sure to use their values 
-      subtags: Tech News # same as above 
+      category: Technology # the category from iTunes; make sure to use their values 
+      subcategory: Tech News # same as above 
       explicit: clean # valid values are yes, no, and clean 
       language: zh-cn
 - feed:
@@ -45,8 +45,8 @@ podcasts:
       author: TechFusionFM.com # defaults to config.author 
       owner: TechFusionFM.com 
       email: hi@TechFusionFM.com # e-mail from which iTunes podcast is registered 
-      tags: Technology # the category from iTunes; make sure to use their values 
-      subtags: Tech News # same as above 
+      category: Technology # the category from iTunes; make sure to use their values 
+      subcategory: Tech News # same as above 
       explicit: clean # valid values are yes, no, and clean 
       language: zh-cn
 - feed:
@@ -63,8 +63,8 @@ podcasts:
       author: TechFusionFM.com # defaults to config.author 
       owner: TechFusionFM.com
       email: hi@TechFusionFM.com # e-mail from which iTunes podcast is registered 
-      tags: Technology # the category from iTunes; make sure to use their values 
-      subtags: Gadgets # same as above 
+      category: Technology # the category from iTunes; make sure to use their values 
+      subcategory: Gadgets # same as above 
       explicit: clean # valid values are yes, no, and clean 
       language: zh-cn
 
