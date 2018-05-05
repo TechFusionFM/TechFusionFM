@@ -22,6 +22,7 @@ podcasts:
     content_encoded: true # same as above, but includes the complete encoded text of the post; see note below
     copyright: "TechFusionFM.com"
     media_base_url: https://TechFusionFM.com/
+    limit: 1000
     itunes:
       summary: 《科技聚变》是一档科技主题播客节目，我们谈论有关互联网的一切。
       author: TechFusionFM.com # defaults to config.author 
@@ -40,6 +41,7 @@ podcasts:
     content_encoded: true # same as above, but includes the complete encoded text of the post; see note below 
     copyright: "TechFusionFM.com"
     media_base_url: https://TechFusionFM.com/
+    limit: 1000
     itunes:
       summary: 《聚焦》是《科技聚变》的新闻主题特别节目，我们只聊一件事。
       author: TechFusionFM.com # defaults to config.author 
@@ -58,6 +60,7 @@ podcasts:
     content_encoded: true # same as above, but includes the complete encoded text of the post; see note below 
     copyright: "TechFusionFM.com"
     media_base_url: https://TechFusionFM.com/
+    limit: 1000
     itunes:
       summary: 《小玩意儿》是《科技聚变》的消费主义特别节目，我们聊新奇的一切。
       author: TechFusionFM.com # defaults to config.author 
