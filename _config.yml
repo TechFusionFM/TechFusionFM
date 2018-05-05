@@ -30,7 +30,7 @@ podcasts:
       tags: Technology # the category from iTunes; make sure to use their values 
       subtags: Tech News # same as above 
       explicit: clean # valid values are yes, no, and clean 
-      language: zh-CN
+      language: zh-cn
 - feed:
     path: spotlight.xml # relative to site root 
     title: 《聚焦》(《科技聚变》出品）
@@ -48,7 +48,7 @@ podcasts:
       tags: Technology # the category from iTunes; make sure to use their values 
       subtags: Tech News # same as above 
       explicit: clean # valid values are yes, no, and clean 
-      language: zh-CN
+      language: zh-cn
 - feed:
     path: gadgets.xml # relative to site root 
     title: 《小玩意儿》(《科技聚变》出品）
@@ -66,7 +66,7 @@ podcasts:
       tags: Technology # the category from iTunes; make sure to use their values 
       subtags: Gadgets # same as above 
       explicit: clean # valid values are yes, no, and clean 
-      language: zh-CN
+      language: zh-cn
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
