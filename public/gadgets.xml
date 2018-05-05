@@ -11,6 +11,8 @@
     <description>My ramblings about football</description>
     <link>https://TechFusionFM.com/</link>
     <atom:link href="https://TechFusionFM.com/gadgets.xml" rel="self" type="application/rss+xml" />
+    <copyright>TechFusionFM.com</copyright>
+    
     <pubDate>Wed, 14 Mar 2018 22:20:00 GMT</pubDate>
     <lastBuildDate>Wed, 14 Mar 2018 22:20:00 GMT</lastBuildDate>
     <generator>Hexo v3.7.1</generator>
@@ -18,21 +20,22 @@
     <managingEditor>hi@TechFusionFM.com (TechFusionFM.com)</managingEditor>
     <image>
       <title>My Football Podcast</title>
-      <url>https://TechFusionFM.com//images/logo@2x.png</url>
+      <url>https://TechFusionFM.com/images/logo@2x.png</url>
       <link>https://TechFusionFM.com/</link>
     </image>
     <itunes:summary>I am right about football; if you agree, you are right too.</itunes:summary>
     <itunes:author>Jerry、Dean</itunes:author>
-    <itunes:subtitle>科技聚变 TechFusion</itunes:subtitle>
+    <itunes:subtitle>科技聚变</itunes:subtitle>
     <itunes:owner>
       <itunes:name>TechFusionFM.com</itunes:name>
       <itunes:email>hi@TechFusionFM.com</itunes:email>
     </itunes:owner>
-    <itunes:image href="https://TechFusionFM.com//images/logo@2x.png" />
+    <itunes:image href="https://TechFusionFM.com/images/logo@2x.png" />
     <itunes:category text="">
       <itunes:category text="" />
     </itunes:category>
     <itunes:explicit>clean</itunes:explicit>
+    <language>zh-CN</language> 
     <rawvoice:subscribe feed="https://TechFusionFM.com/gadgets.xml" itunes="" />
     <item>
       <title>#34：《小玩意儿》（Gadgets）</title>
@@ -42,11 +45,11 @@
       <description>在新开发的环节《小玩意儿》（Gadgets）中我们聊了近期以及消费电子展（CES）上发布的新品。参考链接：捐款主页订阅及常见问题解答 (FAQ)给我们发送电邮反馈： hi@TechFusion.comIncase 14000 mAh 充电内胆包Tile 将和 Bose, Samsonite 合作销售内建查找功能的设备LG 150寸 4K HDR 投影仪OsmoOsmo Mobile 2Dapartures 主页Dapartures Netflix 主页Razor Project LindaVivo 屏幕下解锁Satechi Type-C 75W 多口充电器Nintendo Labo主题曲 by Ninety9Lives主播：Jerry：程序员Dean：大学生，科技爱好者推荐您通过 PayPal 以及支付宝捐款渠道、或在知识星球中搜索并加入「科技聚变」群组帮助我们补贴节目成本，并鼓励我们继续把节目做下去。点击上方各平台的链接或者扫描支付宝和知识星球的二维码即可。《科技聚变》（TechFusion）是一档科技主题播客节目，我们谈论有关互联网的一切。您可以访问 TechFusionFM.com 来找到我们，同时您也可以关注我们的 Twitter，微博，知乎专栏，Instagram，Telegram 节目通知频道以及 Telegram 听众群。我们推荐像 iOS 紫色图标的 Podcasts App, PocketCasts, OverCast 和 Castro 这样的泛用型播客客户端， 但您也可以在 YouTube、荔枝 FM、喜马拉雅和网易云音乐收听我们的节目。</description>
       <content:encoded><![CDATA[ <p>在新开发的环节《小玩意儿》（Gadgets）中我们聊了近期以及消费电子展（CES）上发布的新品。</p><h4>参考链接：</h4><ul><li><a href="https://techfusionfm.com/donate">捐款主页</a></li><li><a href="https://techfusionfm.com/faq">订阅及常见问题解答 (FAQ)</a></li><li><a href="mailto:hi@techfusionfm.com">给我们发送电邮反馈： hi@TechFusion.com</a></li><li><a href="https://www.theverge.com/circuitbreaker/2018/1/8/16865566/incase-iconconnected-power-sleeve-battery-pack-macbook-pro-usb-c-ces-2018">Incase 14000 mAh 充电内胆包</a></li><li><a href="https://www.theverge.com/circuitbreaker/2018/1/4/16851806/lg-hu80ka-4k-uhd-hdr-projector-announced-features">Tile 将和 Bose, Samsonite 合作销售内建查找功能的设备</a></li><li><a href="https://www.theverge.com/circuitbreaker/2018/1/4/16851806/lg-hu80ka-4k-uhd-hdr-projector-announced-features">LG 150寸 4K HDR 投影仪</a></li><li><a href="https://www.dji.com/cn/osmo">Osmo</a></li><li><a href="https://www.dji.com/cn/osmo-mobile-2">Osmo Mobile 2</a></li><li><a href="http://www.departuresentertainment.com/about.html">Dapartures 主页</a></li><li><a href="https://www.netflix.com/title/80027841">Dapartures Netflix 主页</a></li><li><a href="https://www.razerzone.com/projectlinda">Razor Project Linda</a></li><li><a href="http://www.geekpark.net/news/225857">Vivo 屏幕下解锁</a></li><li><a href="https://www.amazon.com/dp/B078864F15/">Satechi Type-C 75W 多口充电器</a></li><li><a href="https://labo.nintendo.com/kits/variety-kit/">Nintendo Labo</a></li><li><a href="http://99l.tv/BleedingThroughYU">主题曲 by Ninety9Lives</a></li></ul><h4>主播：</h4><ul><li><a href="https://twitter.com/jerryfzhang">Jerry</a>：程序员</li><li>Dean：大学生，科技爱好者</li></ul><p>推荐您通过 <a href="https://paypal.me/techfusionfm/5">PayPal</a> 以及<a href="HTTPS://QR.ALIPAY.COM/FKX09288AJOENI0MVZXM12">支付宝</a>捐款渠道、或在<a href="https://www.xiaomiquan.com">知识星球</a>中搜索并加入「科技聚变」群组帮助我们补贴节目成本，并鼓励我们继续把节目做下去。点击上方各平台的链接或者扫描<a href="https://techfusionfm.com/images/QR.JPG">支付宝</a>和<a href="https://t.zsxq.com/IEmEM3f">知识星球</a>的二维码即可。</p><p>《科技聚变》（TechFusion）是一档科技主题播客节目，我们谈论有关互联网的一切。您可以访问 <a href="https://TechFusionFM.com">TechFusionFM.com</a> 来找到我们，同时您也可以关注我们的 <a href="http://twitter.com/TechFusionFM">Twitter</a>，<a href="http://weibo.com/TechFusionFM">微博</a>，<a href="https://zhuanlan.zhihu.com/TechFusion">知乎专栏</a>，<a href="http://instagram.com/TechFusionFM">Instagram</a>，<a href="https://t.me/TechFusionFM">Telegram 节目通知频道</a>以及 <a href="https://t.me/TechFusionChat">Telegram 听众群</a>。</p><p>我们推荐像 <a href="https://itunes.apple.com/cn/podcast/id1202658654">iOS 紫色图标的 Podcasts App</a>, <a href="http://pca.st/podcast/28fcd200-cc7c-0134-10da-25324e2a541d">PocketCasts</a>, <a href="https://overcast.fm">OverCast</a> 和 <a href="http://supertop.co/castro/">Castro</a> 这样的<a href="https://techfusionfm.com/faq">泛用型播客客户端</a>， 但您也可以在 <a href="https://www.youtube.com/channel/UC6uvHf21Tjm5lepw6P2Ki-Q">YouTube</a>、<a href="https://www.lizhi.fm/1494013/">荔枝 FM</a>、<a href="http://www.ximalaya.com/72456289/album/6648521">喜马拉雅</a>和<a href="http://music.163.com/#/djradio?id=347498120">网易云音乐</a>收听我们的节目。</p> ]]></content:encoded>
       <dc:creator>TechFusionFM.com</dc:creator>
-      <enclosure url="//audio/34.mp3" length="20693629" type="audio/mpeg" />
+      <enclosure url="https://TechFusionFM.com/audio/34.mp3" length="20693629" type="audio/mpeg" />
       <itunes:author>TechFusionFM.com</itunes:author>
       <itunes:subtitle>在新开发的环节《小玩意儿》（Gadgets）中我们聊了近期以及消费电子展（CES）上发布的新品。</itunes:subtitle>
       <itunes:summary>在新开发的环节《小玩意儿》（Gadgets）中我们聊了近期以及消费电子展（CES）上发布的新品。参考链接：捐款主页订阅及常见问题解答 (FAQ)给我们发送电邮反馈： hi@TechFusion.comIncase 14000 mAh 充电内胆包Tile 将和 Bose, Samsonite 合作销售内建查找功能的设备LG 150寸 4K HDR 投影仪OsmoOsmo Mobile 2Dapartures 主页Dapartures Netflix 主页Razor Project LindaVivo 屏幕下解锁Satechi Type-C 75W 多口充电器Nintendo Labo主题曲 by Ninety9Lives主播：Jerry：程序员Dean：大学生，科技爱好者推荐您通过 PayPal 以及支付宝捐款渠道、或在知识星球中搜索并加入「科技聚变」群组帮助我们补贴节目成本，并鼓励我们继续把节目做下去。点击上方各平台的链接或者扫描支付宝和知识星球的二维码即可。《科技聚变》（TechFusion）是一档科技主题播客节目，我们谈论有关互联网的一切。您可以访问 TechFusionFM.com 来找到我们，同时您也可以关注我们的 Twitter，微博，知乎专栏，Instagram，Telegram 节目通知频道以及 Telegram 听众群。我们推荐像 iOS 紫色图标的 Podcasts App, PocketCasts, OverCast 和 Castro 这样的泛用型播客客户端， 但您也可以在 YouTube、荔枝 FM、喜马拉雅和网易云音乐收听我们的节目。</itunes:summary>
-      <itunes:image href="https://TechFusionFM.com//images/logo@2x.png" />
+      <itunes:image href="https://TechFusionFM.com/images/logo@2x.png" />
       <itunes:explicit>clean</itunes:explicit>
       <itunes:duration>00:42:14</itunes:duration>
     </item>
