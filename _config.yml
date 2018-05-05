@@ -7,15 +7,15 @@
 title: "科技聚变 TechFusion"
 subtitle: "《科技聚变》（TechFusion） 是一档科技主题播客节目，我们谈论有关互联网的一切。您可以访问 TechFusionFM.com 来找到我们，同时您也可以关注我们的 Twitter, Instagram 或微博 @TechFusionFM 。"
 description: "《科技聚变》（TechFusion）是一档科技主题播客节目，我们谈论有关互联网的一切。您可以访问 TechFusionFM.com 来找到我们，同时您也可以关注我们的 Twitter, Instagram 或微博 @TechFusionFM 。"
-# author: "Jerry、Dean"
+author: "Jerry、Dean"
 keywords: Technology, Tech, China, TechFusionFM, TechFusion, Tech Fusion, 科技播客, 科技, 互联网, IT, 播客, 科技聚变, 聚变, kejijubian, kejijvbian, keji
 language: zh-CN
 timezone: America/New_York
 copyright: "TechFusionFM.com"
-# owner: "TechFusionFM.com"
-# email: "hi@TechFusionFM.com"
-# category: Technology
-# default_thumb: "/images/logo@2x.png"
+owner: "TechFusionFM.com"
+email: "hi@TechFusionFM.com"
+category: Technology
+default_thumb: "/images/logo@2x.png"
 
 
 #Podcast
@@ -52,22 +52,22 @@ podcasts:
       tags: Technology # the category from iTunes; make sure to use their values 
       subtags: Technology # same as above 
       explicit: clean # valid values are yes, no, and clean 
-- feed:
-    path: gadgets.xml # relative to site root 
-    title: My Football Podcast
-    subtitle: My ramblings about football
-    image: /images/logo@2x.png # relative to config.url + config.root 
-    category: gadgets # see below for tag-based feed 
-    limit: 100
-    content_encoded: true # same as above, but includes the complete encoded text of the post; see note below 
-    itunes:
-      summary: I am right about football; if you agree, you are right too.
-      author: Jerry、Dean # defaults to config.author 
-      owner: TechFusionFM.com
-      email: hi@TechFusionFM.com # e-mail from which iTunes podcast is registered 
-      tags: Technology # the category from iTunes; make sure to use their values 
-      subtags: Technology # same as above 
-      explicit: clean # valid values are yes, no, and clean 
+# - feed:
+#     path: gadgets.xml # relative to site root 
+#     title: My Football Podcast
+#     subtitle: My ramblings about football
+#     image: /images/logo@2x.png # relative to config.url + config.root 
+#     category: gadgets # see below for tag-based feed 
+#     limit: 100
+#     content_encoded: true # same as above, but includes the complete encoded text of the post; see note below 
+#     itunes:
+#       summary: I am right about football; if you agree, you are right too.
+#       author: Jerry、Dean # defaults to config.author 
+#       owner: TechFusionFM.com
+#       email: hi@TechFusionFM.com # e-mail from which iTunes podcast is registered 
+#       tags: Technology # the category from iTunes; make sure to use their values 
+#       subtags: Technology # same as above 
+#       explicit: clean # valid values are yes, no, and clean 
     # type: rss2
     # path: podcast.xml
     # limit: 0
