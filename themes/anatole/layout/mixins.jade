@@ -8,7 +8,7 @@ mixin make_post(item, is_detail)
 					a(href= url_for(item.path))= item.title
 		if page.type == "audio/mpeg"
 			br
-			audio(controls='', class="audioPlayer" , autoplay='', preload="none" src=page.media, type='audio/mpeg')
+			audio(controls='', class="audioPlayer" , preload="none" src="/"+page.media, type='audio/mpeg')
 		if is_detail
 			.post-content!= item.content
 		else
