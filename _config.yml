@@ -5,8 +5,8 @@
 
 # Site
 title: "科技聚变"
-description: "《科技聚变》（TechFusion）是一档科技主题播客节目，我们谈论有关互联网的一切。您可以访问 TechFusionFM.com 来找到我们，同时您也可以关注我们的 Twitter, Instagram 或微博 @TechFusionFM 。"
-author: "Jerry、Dean"
+description: "《科技聚变》是一档科技主题播客节目，我们谈论有关互联网的一切。您可以访问 TechFusionFM.com 来找到我们，同时您也可以关注我们的 Twitter, Instagram 或微博 @TechFusionFM 。"
+author: "TechFusionFM.com"
 keywords: Technology, Tech, China, TechFusionFM, TechFusion, Tech Fusion, 科技播客, 科技, 互联网, IT, 播客, 科技聚变, 聚变, kejijubian, kejijvbian, keji
 language: zh-CN
 timezone: America/New_York
@@ -16,15 +16,15 @@ podcasts:
 - feed:
     path: podcast.xml # relative to site root 
     title: 科技聚变
-    subtitle: 《科技聚变》（TechFusion）是一档科技主题播客节目，我们谈论有关互联网的一切。您可以访问 TechFusionFM.com 来找到我们，同时您也可以关注我们的 Twitter, Instagram 或微博 @TechFusionFM 。
+    subtitle: 《科技聚变》是一档科技主题播客节目，我们谈论有关互联网的一切。您可以访问 TechFusionFM.com 来找到我们，同时您也可以关注我们的 Twitter, Instagram 或微博 @TechFusionFM 。
     image: images/logo@2x.png # relative to config.url + config.root 
     tag: podcast # see below for tag-based feed 
     content_encoded: true # same as above, but includes the complete encoded text of the post; see note below
     copyright: "TechFusionFM.com"
     media_base_url: https://TechFusionFM.com/
     itunes:
-      summary: I am right about football; if you agree, you are right too.
-      author: Jerry、Dean # defaults to config.author 
+      summary: 《科技聚变》是一档科技主题播客节目，我们谈论有关互联网的一切。
+      author: TechFusionFM.com # defaults to config.author 
       owner: TechFusionFM.com
       email: hi@TchFusionFM.com # e-mail from which iTunes podcast is registered 
       tags: Technology # the category from iTunes; make sure to use their values 
@@ -34,15 +34,15 @@ podcasts:
 - feed:
     path: spotlight.xml # relative to site root 
     title: 《聚焦》(《科技聚变》出品）
-    subtitle: 《聚焦》是《科技聚变》（TechFusion）的特别节目，我们聊且只聊一件事。
-    image: images/logo@2x.png # relative to config.url + config.root 
+    subtitle: 《聚焦》是《科技聚变》的特别节目，我们聊且只聊一件事。您可以访问 TechFusionFM.com 来找到我们，同时您也可以关注我们的 Twitter, Instagram 或微博 @TechFusionFM 。
+    image: images/spotlight.png # relative to config.url + config.root 
     category: spotlight # see above for category-based feed 
     content_encoded: true # same as above, but includes the complete encoded text of the post; see note below 
     copyright: "TechFusionFM.com"
     media_base_url: https://TechFusionFM.com/
     itunes:
-      summary: 《聚焦》是《科技聚变》（TechFusion）的特别节目，我们聊且只聊一件事。
-      author: Jerry、Dean # defaults to config.author 
+      summary: 《聚焦》是《科技聚变》的新闻主题特别节目，我们只聊一件事。
+      author: TechFusionFM.com # defaults to config.author 
       owner: TechFusionFM.com 
       email: hi@TechFusionFM.com # e-mail from which iTunes podcast is registered 
       tags: Technology # the category from iTunes; make sure to use their values 
@@ -51,27 +51,22 @@ podcasts:
       language: zh-CN
 - feed:
     path: gadgets.xml # relative to site root 
-    title: My Football Podcast
-    subtitle: My ramblings about football
-    image: images/logo@2x.png # relative to config.url + config.root 
+    title: 《小玩意儿》(《科技聚变》出品）
+    subtitle: 《小玩意儿》是《科技聚变》的消费主义特别节目，我们聊新奇的一切。您可以访问 TechFusionFM.com 来找到我们，同时您也可以关注我们的 Twitter, Instagram 或微博 @TechFusionFM 。
+    image: images/gadgets.png # relative to config.url + config.root 
     category: gadgets # see below for tag-based feed 
     content_encoded: true # same as above, but includes the complete encoded text of the post; see note below 
     copyright: "TechFusionFM.com"
     media_base_url: https://TechFusionFM.com/
     itunes:
-      summary: I am right about football; if you agree, you are right too.
-      author: Jerry、Dean # defaults to config.author 
+      summary: 《小玩意儿》是《科技聚变》的消费主义特别节目，我们聊新奇的一切。
+      author: TechFusionFM.com # defaults to config.author 
       owner: TechFusionFM.com
       email: hi@TechFusionFM.com # e-mail from which iTunes podcast is registered 
       tags: Technology # the category from iTunes; make sure to use their values 
-      subtags: Tech News # same as above 
+      subtags: Gadgets # same as above 
       explicit: clean # valid values are yes, no, and clean 
       language: zh-CN
-    # type: rss2
-    # path: podcast.xml
-    # limit: 0
-    # hub:
-    # content: true
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
@@ -79,10 +74,6 @@ url: https://TechFusionFM.com
 root: /
 permalink: :title/
 permalink_defaults:
-
-
-
-
 
 # Directory
 source_dir: source
