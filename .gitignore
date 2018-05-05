@@ -2,11 +2,11 @@
 Thumbs.db
 db.json
 *.log
-public/
 .deploy*/
 node_modules/*
-!node_modules/hexo-generator-podcast/
+!node_modules/hexo-generator-podcast/rss2.xml
 !node_modules/hexo-renderer-marked/
+!node_modules/hexo-generator-multiple-podcast/rss2.xml
 source/audio/*
 *.out
 *.pyc
