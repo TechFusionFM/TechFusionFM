@@ -21,14 +21,11 @@ mixin make_post(item, is_detail)
 				//- if theme.duoshuo || theme.disqus
 				//- 	i.fa.fa-comment-o
 				//- 	a(href= url_for(item.path + "#comments"))= __('Comments')
-//				if item.tags
-//					i.fa.fa-tag
-//					- item.categories.sort('posts').each(function(item) {
-//							a.tag(href=config.root + item.path, title= item.name)= item.name + " "
-//					- });
-//					- item.tags.sort('posts').each(function(item) {
-//							a.tag(href=config.root + item.path, title= item.name)= item.name + " "
-//					- });
+			if item.categories
+				i.fa.fa-tag
+					item.categories.sort('posts').each(function(item) {
+						item.name + " "
+					})
 
 
 mixin make_pager()
