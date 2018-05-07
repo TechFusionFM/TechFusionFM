@@ -25,8 +25,8 @@ podcasts:
     limit: 1000
     itunes:
       summary: 《科技聚变》（TechFusion）是一档科技主题播客节目，我们谈论有关互联网的一切。
-      author: TechFusionFM.com # defaults to config.author 
-      owner: TechFusionFM.com
+      author: "TechFusionFM.com" # defaults to config.author 
+      owner: "TechFusionFM.com"
       email: hi@TchFusionFM.com # e-mail from which iTunes podcast is registered 
       category: Technology # the category from iTunes; make sure to use their values 
       subcategory: Tech News # same as above 
@@ -44,8 +44,8 @@ podcasts:
     limit: 1000
     itunes:
       summary: 《聚焦》是《科技聚变》的新闻主题特别节目，我们只聊一件事。
-      author: TechFusionFM.com # defaults to config.author 
-      owner: TechFusionFM.com 
+      author: "TechFusionFM.com" # defaults to config.author 
+      owner: "TechFusionFM.com"
       email: hi@TechFusionFM.com # e-mail from which iTunes podcast is registered 
       category: Technology # the category from iTunes; make sure to use their values 
       subcategory: Tech News # same as above 
@@ -54,7 +54,7 @@ podcasts:
 - feed:
     path: gadgets.xml # relative to site root 
     title: 《小玩意儿》(《科技聚变》出品）
-    subtitle: 《小玩意儿》是《科技聚变》的消费主义特别节目，我们聊新奇的一切。您可以访问 TechFusionFM.com 来找到我们，同时您也可以关注我们的 Twitter, Instagram 或微博 @TechFusionFM 。
+    subtitle: 《小玩意儿》是《科技聚变》的特别节目，我们聊新奇的一切。您可以访问 TechFusionFM.com 来找到我们，同时您也可以关注我们的 Twitter, Instagram 或微博 @TechFusionFM 。
     image: images/gadgets.png # relative to config.url + config.root 
     category: gadgets # see below for tag-based feed 
     content_encoded: true # same as above, but includes the complete encoded text of the post; see note below 
@@ -62,9 +62,9 @@ podcasts:
     media_base_url: https://TechFusionFM.com/
     limit: 1000
     itunes:
-      summary: 《小玩意儿》是《科技聚变》的消费主义特别节目，我们聊新奇的一切。
-      author: TechFusionFM.com # defaults to config.author 
-      owner: TechFusionFM.com
+      summary: 《小玩意儿》是《科技聚变》的特别节目，我们聊新奇的一切。
+      author: "TechFusionFM.com" # defaults to config.author 
+      owner: "TechFusionFM.com"
       email: hi@TechFusionFM.com # e-mail from which iTunes podcast is registered 
       category: Technology # the category from iTunes; make sure to use their values 
       subcategory: Gadgets # same as above 
