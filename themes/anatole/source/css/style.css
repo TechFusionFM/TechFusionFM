@@ -214,6 +214,18 @@ a:active {
   padding-top: 140px;
 }
 
+.sidebar.spotlight {
+  background-color: #1e1b05;
+  color: white;
+}
+a.spotlight {
+  color: white;
+}
+
+.gadgets {
+  background-color: #1e1b05;
+}
+
 .sidebar .logo-title .description {
   font-size: 14px;
   padding: 0px 20px;

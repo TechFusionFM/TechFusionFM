@@ -1,11 +1,15 @@
-mixin make_post(item, is_detail)
+mixin make_post(item, index, is_detail)
 	.post.animated.fadeInDown
 		.post-title
 			h3
+				if index
+					-var episodeNum = "#" + index + ": "
+				if !index
+					-var episodeNum = ""
 				if is_detail
-					a= item.title
+					a= episodeNum + item.title
 				else
-					a(href= url_for(item.path))= item.title
+					a(href= url_for(item.path))=  episodeNum + item.title
 		if page.media_type == "audio/mpeg"
 			br
 			audio(controls='', class="audioPlayer" , preload="none" src="/" + page.media, type='audio/mpeg')
@@ -17,7 +21,7 @@ mixin make_post(item, is_detail)
 		.post-footer: .meta
 			.info
 				i.fa.fa-calendar
-				span.date= date(item.date, 'YYYY 年 MM 月 DD 日')
+				span.date= date(item.date, episodeNum +'YYYY 年 MM 月 DD 日')
 
 
 mixin make_pager()

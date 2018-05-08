@@ -2,7 +2,6 @@ keywords: Technology, Tech, China, TechFusionFM, TechFusion, Tech Fusion, 科技
 author: TechFusionFM.com
 description: "《科技聚变》（TechFusion）是一档科技主题播客节目，我们谈论有关互联网的一切。"
 avatar: "https://scontent.cdninstagram.com/t51.2885-19/s320x320/16229397_1340491162660524_6987457838318616576_a.jpg"
-
 email: hi@TechFusionFM.com
 twitter: TechFusionFM
 instagram: TechFusionFM
@@ -10,6 +9,19 @@ weibo: TechFusionFM
 iTunes: 1202658654
 rss: podcast.xml
 
+
+spotlight:
+  title: 《聚焦》(《科技聚变》出品）
+  description: 《聚焦》是《科技聚变》的特别节目，我们聊且只聊一件事。您可以访问 TechFusionFM.com 来找到我们，同时您也可以关注我们的 Twitter, Instagram 或微博 @TechFusionFM 。
+  keywords: Technology, Tech, China, TechFusionFM, TechFusion, Tech Fusion, 科技播客, 科技, 互联网, IT, 播客, 科技聚变, 聚变, kejijubian, kejijvbian, keji
+  author: TechFusionFM.com
+  avatar: "https://scontent.cdninstagram.com/t51.2885-19/s320x320/16229397_1340491162660524_6987457838318616576_a.jpg"
+  email: hi@TechFusionFM.com
+  twitter: TechFusionFM
+  instagram: TechFusionFM
+  weibo: TechFusionFM
+  iTunes: 1202658654
+  rss: podcast.xml
 # Comment
 duoshuo:
 disqus:

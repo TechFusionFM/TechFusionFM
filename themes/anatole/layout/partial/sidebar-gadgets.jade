@@ -1,0 +1,35 @@
+.sidebar.animated.fadeInDown.gadgets
+  .logo-title
+    .title
+      img(src= url_for('images/gadgets.png'))
+      h3(title="")
+        a(href="/categories/gadgets/")= "《小玩意儿》(《科技聚变》出品）"
+      .description
+        p= "《小玩意儿》是《科技聚变》的特别节目，我们聊新奇的一切。您可以访问 TechFusionFM.com 来找到我们，同时您也可以关注我们的 Twitter, Instagram 或微博 @TechFusionFM。"
+
+  ul.social-links
+   if theme.email
+      li
+        a(href="mailto:" + theme.email)
+          i.fa.fa-envelope
+    if theme.twitter
+      li
+        a(href="https://twitter.com/" + theme.twitter)
+          i.fa.fa-twitter
+    if theme.instagram
+      li
+        a(href="http://instagram.com/" + theme.instagram)
+          i.fa.fa-instagram
+    if theme.weibo
+      li
+        a(href="http://weibo.com/" + theme.weibo)
+          i.fa.fa-weibo
+    if theme.iTunes
+      li
+        a(href="https://itunes.apple.com/cn/podcast/id1381045277")
+          i.fa.fa-apple
+    if theme.rss
+      li
+        a(href= url_for("https://techfusionfm.com/gadgets.xml"))
+          i.fa.fa-rss   
+  include footer
