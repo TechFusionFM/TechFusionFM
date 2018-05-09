@@ -34,7 +34,7 @@ podcasts:
       language: zh-cn
 - feed:
     path: spotlight.xml # relative to site root 
-    title: 《聚焦》(《科技聚变》出品）
+    title: 聚焦 (《科技聚变》出品）
     subtitle: 《聚焦》是《科技聚变》的特别节目，我们聊且只聊一件事。您可以访问 TechFusionFM.com 来找到我们，同时您也可以关注我们的 Twitter, Instagram 或微博 @TechFusionFM 。
     image: images/spotlight.png # relative to config.url + config.root 
     category: spotlight # see above for category-based feed 
@@ -53,7 +53,7 @@ podcasts:
       language: zh-cn
 - feed:
     path: gadgets.xml # relative to site root 
-    title: 《小玩意儿》(《科技聚变》出品）
+    title: 小玩意儿 (《科技聚变》出品）
     subtitle: 《小玩意儿》是《科技聚变》的特别节目，我们聊新奇的一切。您可以访问 TechFusionFM.com 来找到我们，同时您也可以关注我们的 Twitter, Instagram 或微博 @TechFusionFM 。
     image: images/gadgets.png # relative to config.url + config.root 
     category: gadgets # see below for tag-based feed 
