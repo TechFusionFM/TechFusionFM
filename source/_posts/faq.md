@@ -33,13 +33,13 @@ tags:
 
 #### 如何在其他平台上找到我们？
 直接点击网页<i class="fa fa-arrow-circle-o-up" aria-hidden="true"></i>上方或<i class="fa fa-arrow-circle-o-left" aria-hidden="true"></i>左方一排社交网站 Logo 或点击下方链接：
-- 社交平台：
+社交平台：
 <a href = "http://twitter.com/TechFusionFM"><img src="/images/Twitter-Badge-BW.svg"></a><span style="padding: 3px"></span><a href = "http://weibo.com/TechFusionFM"><img src="/images/Weibo-Badge-BW.svg"></a><span style="padding: 3px"></span><a href = "http://instagram.com/TechFusionFM"><img src="/images/Instagram-Badge-BW.svg"></a><span style="padding: 3px"></span><a href = "https://t.me/TechFusionFM"><img src="/images/Telegram-Channel-Badge-BW.svg"></a><span style="padding: 3px"></span><a href = "https://t.me/TechFusionChat"><img src="/images/Telegram-Chat-Badge-BW.svg"></a><span style="padding: 3px"></span><a href = "https://zhuanlan.zhihu.com/TechFusion"><img src="/images/Zhihu-Badge-BW.svg"></a><span style="padding: 3px"></span><a href = "mailto:hi@TechFusionFM.com"><img src="/images/Email-Badge-BW.svg"></a>
-- 泛用型播客客户端：
+泛用型播客客户端：
 <a href = "https://itunes.apple.com/cn/podcast/%E7%A7%91%E6%8A%80%E8%81%9A%E5%8F%98-techfusion/id1202658654?mt=2"><img src="/images/Apple-Podcast-Badge-BW.svg"></a><span style="padding: 3px"></span><a href = "http://pca.st/podcast/28fcd200-cc7c-0134-10da-25324e2a541d"><img src="/images/Pocket-Casts-Badge-BW.svg"></a><span style="padding: 3px"></span><a href = "https://overcast.fm/itunes1202658654/techfusion"><img src="/images/Overcast-Badge-BW.svg"></a><span style="padding: 3px"></span><a href = "https://playmusic.app.goo.gl/?ibi=com.google.PlayMusic&isi=691797987&ius=googleplaymusic&link=https://play.google.com/music/m/Ipiouils7kq2tvqibapqnnwsm5u?t%3D%25E7%25A7%2591%25E6%258A%2580%25E8%2581%259A%25E5%258F%2598_%28TechFusion%29%26pcampaignid%3DMKT-na-all-co-pr-mu-pod-16"><img src="/images/Play-Music-Badge-BW.svg"></a>
-- 非泛用型播客客户端：
+非泛用型播客客户端：
 <a href = "https://www.lizhi.fm/1494013/"><img src="/images/LizhiFM-Badge-BW.svg"></a><span style="padding: 3px"></span><a href = "http://www.ximalaya.com/72456289/album/6648521"><img src="/images/Ximalaya-Badge-BW.svg"></a><span style="padding: 3px"></span><a href = "http://music.163.com/#/djradio?id=347498120"><img src="/images/163-Music-Badge-BW.svg"></a><span style="padding: 3px"></span><a href = "https://soundcloud.com/techfusion"><img src="/images/SoundCloud-Badge-BW.svg"></a>
-- 视频网站：
+视频网站：
 <a href = "https://www.youtube.com/channel/UC6uvHf21Tjm5lepw6P2Ki-Q"><img src="/images/YouTube-Badge-BW.svg"></a><span style="padding: 3px"></span><a href = "http://i.youku.com/techfusion"><img src="/images/Youku-Badge-BW.svg"></a><span style="padding: 3px"></span><a href = "http://www.tudou.com/home/TechFusion"><img src="/images/Tudou-Badge-BW.svg"></a>
 
 #### 如何支持我们？
