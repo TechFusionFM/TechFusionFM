@@ -43,8 +43,8 @@ mixin postList()
 		- var firstYear = true;
 		- page.posts.each(function (item) {
 			- var itemYear = date(item.date, 'YYYY') - 0;
-			- change = year !== itemYear;
-			- year = change ? itemYear + "年" : year;
+			- change = year !== itemYear + " 年" ;
+			- year = change ? itemYear + " 年" : year;
 			if change
 				if firstYear
 					| <div class="listing-title">
