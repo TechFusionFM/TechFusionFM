@@ -8,7 +8,7 @@ title: "科技聚变"
 description: "《科技聚变》（TechFusion）是一档科技主题播客节目，我们谈论有关互联网的一切。您可以访问 TechFusionFM.com 来找到我们，同时您也可以关注我们的 Twitter, Instagram 或微博 @TechFusionFM 。"
 author: "TechFusionFM.com"
 keywords: Technology, Tech, China, TechFusionFM, TechFusion, Tech Fusion, 科技播客, 科技, 互联网, IT, 播客, 科技聚变, 聚变, kejijubian, kejijvbian, keji
-language: zh-CN
+language: zh
 timezone: America/New_York
 
 #Podcast
@@ -31,7 +31,7 @@ podcasts:
       category: Technology # the category from iTunes; make sure to use their values 
       subcategory: Tech News # same as above 
       explicit: clean # valid values are yes, no, and clean 
-      language: zh-cn
+      language: zh
 - feed:
     path: spotlight.xml # relative to site root 
     title: 聚焦 (《科技聚变》出品）
@@ -50,7 +50,7 @@ podcasts:
       category: Technology # the category from iTunes; make sure to use their values 
       subcategory: Tech News # same as above 
       explicit: clean # valid values are yes, no, and clean 
-      language: zh-cn
+      language: zh
 - feed:
     path: gadgets.xml # relative to site root 
     title: 小玩意儿 (《科技聚变》出品）
@@ -69,7 +69,7 @@ podcasts:
       category: Technology # the category from iTunes; make sure to use their values 
       subcategory: Gadgets # same as above 
       explicit: clean # valid values are yes, no, and clean 
-      language: zh-cn
+      language: zh
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
