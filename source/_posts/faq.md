@@ -6,20 +6,20 @@ tags:
 #### 如何订阅节目？
 - ** 订阅《科技聚变》的所有节目：**
 在您的播客客户端直接搜索 「TechFusion」或「科技聚变」或输入下述 RSS 地址来找到我们：
-<code>https://techfusionfm.com/podcast.xml</code>
+<code>https://techfusionfm.com/podcast.xml</code> 
 如果您使用下列泛用型播客客户端，直接点击即可订阅：
 <a href = "https://itunes.apple.com/cn/podcast/id1202658654"><img src="/images/Apple-Podcast-Icon-BW.svg" alt="Apple Podcasts"></a><span style="padding: 3px"></span><a href = "http://pca.st/podcast/28fcd200-cc7c-0134-10da-25324e2a541d"><img src="/images/Pocket-Casts-Icon-BW.svg" alt="Pocket Casts"></a><span style="padding: 3px"></span><a href = "https://overcast.fm/itunes1202658654"><img src="/images/Overcast-Icon-BW.svg" alt="Overcast"></a><span style="padding: 3px"></span><a href = "https://playmusic.app.goo.gl/?ibi=com.google.PlayMusic&isi=691797987&ius=googleplaymusic&link=https://play.google.com/music/m/Ipiouils7kq2tvqibapqnnwsm5u?t%3D%25E7%25A7%2591%25E6%258A%2580%25E8%2581%259A%25E5%258F%2598_%28TechFusion%29%26pcampaignid%3DMKT-na-all-co-pr-mu-pod-16"><img src="/images/Play-Music-Icon-BW.svg" alt="Google Play"></a>
 
 - **订阅[《聚焦》](/categories/spotlight/)**：
 在您的播客客户端直接搜索 「聚焦」或「科技聚变」或输入下述 RSS 地址：
-<code>https://techfusionfm.com/spotlight.xml</code>
+<code>https://techfusionfm.com/spotlight.xml</code> 
 如果您使用下列泛用型播客客户端，直接点击即可订阅:
 <a href = "https://itunes.apple.com/cn/podcast/id1381044925"><img src="/images/Apple-Podcast-Icon-BW.svg" alt="Apple Podcasts"></a><span style="padding: 3px"></span><a href = "http://pca.st/podcast/56bc99d0-3256-0136-fa7b-0fe84b59566d"><img src="/images/Pocket-Casts-Icon-BW.svg" alt="Pocket Casts"></a><span style="padding: 3px"></span><a href = "https://overcast.fm/itunes1381044925"><img src="/images/Overcast-Icon-BW.svg" alt="Overcast"></a><span style="padding: 3px"></span><a href = "https://playmusic.app.goo.gl/?ibi=com.google.PlayMusic&isi=691797987&ius=googleplaymusic&apn=com.google.android.music&link=https://play.google.com/music/m/Izyfejnccthyoh6cbztto4i26l4?t%3D%25E3%2580%258A%25E8%2581%259A%25E7%2584%25A6%25E3%2580%258B(%25E3%2580%258A%25E7%25A7%2591%25E6%258A%2580%25E8%2581%259A%25E5%258F%2598%25E3%2580%258B%25E5%2587%25BA%25E5%2593%2581%25EF%25BC%2589%26pcampaignid%3DMKT-na-all-co-pr-mu-pod-16"><img src="/images/Play-Music-Icon-BW.svg" alt="Google Play"></a>
 
 
 - **订阅[《小玩意儿》](/categories/gadgets/)**：
 在您的播客客户端直接搜索 「小玩意儿」或「科技聚变」或输入下述 RSS 地址：
-<code>https://techfusionfm.com/gadgets.xml</code>
+<code>https://techfusionfm.com/gadgets.xml</code> 
 如果您使用下列泛用型播客客户端，直接点击即可订阅:
 <a href = "https://itunes.apple.com/cn/podcast/id1381045277"><img src="/images/Apple-Podcast-Icon-BW.svg" alt="Apple Podcasts"></a><span style="padding: 3px"></span><a href = "http://pca.st/podcast/4cb431e0-324e-0136-fa7b-0fe84b59566d"><img src="/images/Pocket-Casts-Icon-BW.svg" alt="Pocket Casts"></a><span style="padding: 3px"></span><a href = "https://overcast.fm/itunes1381045277"><img src="/images/Overcast-Icon-BW.svg" alt="Overcast"></a><span style="padding: 3px"></span><a href = "https://playmusic.app.goo.gl/?ibi=com.google.PlayMusic&isi=691797987&ius=googleplaymusic&apn=com.google.android.music&link=https://play.google.com/music/m/Iy7ateo554qi35tlrbcgeenm66u?t%3D%25E3%2580%258A%25E5%25B0%258F%25E7%258E%25A9%25E6%2584%258F%25E5%2584%25BF%25E3%2580%258B(%25E3%2580%258A%25E7%25A7%2591%25E6%258A%2580%25E8%2581%259A%25E5%258F%2598%25E3%2580%258B%25E5%2587%25BA%25E5%2593%2581%25EF%25BC%2589%26pcampaignid%3DMKT-na-all-co-pr-mu-pod-16"><img src="/images/Play-Music-Icon-BW.svg" alt="Google Play"></a>
 
