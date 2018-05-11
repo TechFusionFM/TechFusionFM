@@ -17,7 +17,9 @@ p {
   font-weight: 400;
   font-size: 14px;
 }
-
+small{
+  color:#cccccc;
+}
 audio {
   width: 100%;
   height: 32px;
@@ -150,7 +152,7 @@ a:active {
 .page-top .nav li {
   position: relative;
   display: initial;
-  padding-right: 20px;
+  padding-right: 10px;
 }
 
 .page-top .nav a {
@@ -212,6 +214,14 @@ a:active {
 .sidebar .logo-title {
   text-align: center;
   padding-top: 140px;
+}
+
+.sidebar.spotlight {
+  background-color: #1e1b05;
+  color: white;
+}
+a.spotlight {
+  color: white;
 }
 
 .sidebar .logo-title .description {

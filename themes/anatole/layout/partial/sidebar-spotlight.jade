@@ -1,0 +1,37 @@
+.sidebar.animated.fadeInDown.spotlight
+  .logo-title
+    .title
+      img(src= url_for('images/spotlight.png'))
+      h3(title="")
+        a.spotlight(href="/categories/spotlight/")= "聚焦"
+        p
+        small《科技聚变》出品
+      .description
+        p= "《聚焦》是《科技聚变》的特别节目，我们聊且只聊一件事。"
+
+  ul.social-links
+   if theme.email
+      li
+        a.spotlight(href="mailto:" + theme.email)
+          i.fa.fa-envelope
+    if theme.twitter
+      li
+        a.spotlight(href="https://twitter.com/" + theme.twitter)
+          i.fa.fa-twitter
+    if theme.instagram
+      li
+        a.spotlight(href="http://instagram.com/" + theme.instagram)
+          i.fa.fa-instagram
+    if theme.weibo
+      li
+        a.spotlight(href="http://weibo.com/" + theme.weibo)
+          i.fa.fa-weibo
+    if theme.iTunes
+      li
+        a.spotlight(href="https://itunes.apple.com/cn/podcast/id1381044925")
+          i.fa.fa-apple
+    if theme.rss
+      li
+        a.spotlight(href= url_for("https://techfusionfm.com/spotlight.xml"))
+          i.fa.fa-rss   
+  include footer

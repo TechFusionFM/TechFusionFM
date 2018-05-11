@@ -3,6 +3,16 @@
     li
       a(href="/")= __('Home')	
     li
+      if is_current('Spotlight')
+        a.current(href="/categories/spotlight")= __('Spotlight')					
+      else
+        a(href="/categories/spotlight")= __('Spotlight')	
+    li
+      if is_current('Gadgets')
+        a.current(href="/categories/gadgets")= __('Gadgets')					
+      else
+        a(href="/categories/gadgets")= __('Gadgets')	
+    li
       if is_current('FAQ')
         a.current(href="/faq")= __('FAQ')			
       else

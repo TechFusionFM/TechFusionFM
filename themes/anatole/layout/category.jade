@@ -1,15 +1,19 @@
 extends partial/layout
 
 block site_title
-    != page.category + " · " + config.title
+	if (page.category == "Spotlight")
+		!= "Spotlight · " + config.title
+	if (page.category == "Gadgets")
+		!= "Gadgets · " + config.title
 
-block description
-    - var desc = '分类：' + page.category + ' - ' + config.title;
-    meta(name="description", content=desc)
+	!= page.category + " · " + config.title
 
 block content
-  .autopagerize_page_element: .content
-    .archive.animated.fadeInDown
-      ul.list-with-title
-        include mixins
-        +postList()
+	.autopagerize_page_element: .content
+		- page.posts.each(function (item, index) {	
+				if item.categories == page.category
+					index--
+					include mixins
+				+make_post(item,  page.posts.length - index, false)
+		- })
+		include mixins

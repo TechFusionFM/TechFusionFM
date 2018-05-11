@@ -1,11 +1,15 @@
-mixin make_post(item, is_detail)
+mixin make_post(item, index, is_detail)
 	.post.animated.fadeInDown
 		.post-title
 			h3
+				if index
+					-var episodeNum = "#" + index + ": "
+				if !index
+					-var episodeNum = ""
 				if is_detail
-					a= item.title
+					a= episodeNum + item.title
 				else
-					a(href= url_for(item.path))= item.title
+					a(href= url_for(item.path))=  episodeNum + item.title
 		if page.media_type == "audio/mpeg"
 			br
 			audio(controls='', class="audioPlayer" , preload="none" src="/" + page.media, type='audio/mpeg')
@@ -39,8 +43,8 @@ mixin postList()
 		- var firstYear = true;
 		- page.posts.each(function (item) {
 			- var itemYear = date(item.date, 'YYYY') - 0;
-			- change = year !== itemYear;
-			- year = change ? itemYear : year;
+			- change = year !== itemYear + " 年" ;
+			- year = change ? itemYear + " 年" : year;
 			if change
 				if firstYear
 					| <div class="listing-title">
@@ -56,5 +60,5 @@ mixin postList()
 				.listing-post
 					a(href= url_for(item.path), title= item.title)= item.title
 					div.post-time
-						span.date= date(item.date, 'MM-DD')
+						span.date= date(item.date, 'MM 月 DD 日')
 		- })
