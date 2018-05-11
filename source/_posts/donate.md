@@ -4,7 +4,7 @@ date: 2017-02-01 00:00:01
 tags:
 ---
 
-- 在 [iTunes](https://itunes.apple.com/cn/podcast/id1202658654) 上为我们留言。
+- 在 [iTunes](https://itunes.apple.com/cn/artist/techfusionfm-com/1383309099?mt=2) 上为我们留言。
 - 订阅和分享。
 - 参与我们在[社交媒体](/faq/)上的讨论。
 
@@ -15,13 +15,12 @@ tags:
 #### 捐助计划
 我们的节目以免费形式向所有听众发布，如果您喜欢我们的节目并希望我们一直做下去， 推荐您通过支付宝和 PayPal 为我们捐款。我们会每月两次将每笔捐款的留言、时间、金额以匿名的形式发布。
 
-<a href = "https://qr.alipay.com/FKX09288AJOENI0MVZXM12"><img src="/images/Alipay-Phone.svg"></a><span style="padding: 3px"></span><a href = "/images/QR.JPG"><img src="/images/Alipay-PC.svg"></a><span style="padding: 3px"></span><a href = "https://paypal.me/techfusionfm/5"><img src="/images/Paypal-Phone.svg"></a>
+<a href = "https://qr.alipay.com/FKX09288AJOENI0MVZXM12"><img src="/images/Alipay-Phone.svg" alt="手机支付宝"></a><span style="padding: 3px"></span><a href = "/images/QR.JPG"><img src="/images/Alipay-PC.svg" alt="支付宝扫码"></a><span style="padding: 3px"></span><a href = "https://paypal.me/techfusionfm/5"><img src="/images/Paypal-Phone.svg" alt="Paypal"></a>
 
-其他问题请发邮件到 hi@TechFusionFM.com。
 
 #### 列表
 | 付款人               | 留言                   | 时间          | 金额           |
-|-:-----------------|-:--------------------|-:-----------|-------------:|
+|-:-----------------|-:--------------------|-:-----------|--:-----------:|
 | S\*\*\*\*\* H\*\* | 很棒的播客讨论，加油           | 二〇一八年五月四日   | $ 5.00 USD   |
 | \*宜全              | Keep going！加油！       | 二〇一七年八月八日   | ¥ 20.00 CNY  |
 | \*骋伟              | 加油                   | 二〇一七年八月四日   | ¥ 8.88 CNY   |
