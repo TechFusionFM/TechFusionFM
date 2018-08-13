@@ -6,7 +6,9 @@ db.json
 node_modules/*
 !node_modules/hexo-renderer-marked/
 !node_modules/hexo-generator-multiple-podcast/
-source/audio/*
+source/audio/1.mp3
+source/audio/2.mp3
+source/audio/22.mp3
 *.out
 *.pyc
 telebot/nohup.out
