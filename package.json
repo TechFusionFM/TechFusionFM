@@ -24,7 +24,7 @@
     "hexo-renderer-stylus": "^0.3.1",
     "hexo-server": "^0.2.0",
     "npm": "^6.4.1",
-    "snyk": "^1.88.0"
+    "snyk": "^1.95.3"
   },
   "scripts": {
     "snyk-protect": "snyk protect",
