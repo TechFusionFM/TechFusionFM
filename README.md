@@ -27,7 +27,7 @@ CMS:       [Hexo](https://hexo.io)
 
 Theme Based on:  [Anatole](https://github.com/hi-caicai/farbox-theme-Anatole)
 
-Telegram Bot, Custom Deployment Script, Show Notes, Custom XML Parser and Theme Customization: [Fengwei Jerry Zhang - zhang96](https://github.com/zhang96)
+Telegram Bot, Custom Deployment Script, Show Notes, Custom XML Parser and Theme Customization: [Jerry Fengwei Zhang - JerryFZhang](https://github.com/JerryFZhang)
 
 
 The content including but not limited to text displayed on the website, pictures and logos, audio files, [TechFusionFM.com](https://TechFusionFM.com) have exclusive right to them unless authorized. 
