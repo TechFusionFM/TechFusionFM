@@ -15,35 +15,23 @@ def my_function(url, genre, shows, uncharted):
     markup = open('myFile.tmp', 'r')
     soup = BeautifulSoup(markup, "xml")
     cell = soup.find_all('im:name')
-#    print cell;
     indicator = True;
     counter = 0;
-#    unchartedString = ""
     for item in cell:
-#        print item.contents[0]
-#        showsCounter = 0
         for show in shows:
             if item.contents[0] == show:
                 counter += 1
                 msg = ""
-#                uncharted.remove(showsCounter)
-                msg += "《"
                 msg += show
-                msg += "》is now at %23"
+                msg += "\n %23"
                 msg += str(counter) 
-                msg += " on Apple Podcasts "
+                msg += " on \n"
                 msg += genre
                 msg += " Chart."
                 print msg
                 r = requests.get("https://api.telegram.org/bot370638413:AAHrBMWdw1QzNP6LJ2HBZqfhbrislpOv_4g/sendMessage?text=" + msg + "&chat_id=-1001126950310")
                 print(r.status_code, r.reason)
-#            showsCounter i+= 1
         counter += 1
-    
-#    for item in uncharted:
-#        unchartedString += str(item) + ""
-#    r = requests.get("https://api.telegram.org/bot370638413:AAHrBMWdw1QzNP6LJ2HBZqfhbrislpOv_4g/sendMessage?text="+ unchartedString +" not charting on Apple Podcasts " + genre + " Chart (Testing).&chat_id=-1001126950310")
-#    print(r.status_code, r.reason)
     os.remove("myFile.tmp")    
     
 # Keep looping for every 10 mins
