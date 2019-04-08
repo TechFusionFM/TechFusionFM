@@ -1,12 +1,12 @@
 extends partial/layout
 
 block site_title
-	if (page.category == "Spotlight")
-		!= "Spotlight · " + config.title
-	if (page.category == "Gadgets")
-		!= "Gadgets · " + config.title
+	if (page.category == "Spotlight" || page.category == "spotlight")
+		!= "《聚焦 (《科技聚变》出品）》 - " + config.title
+	if (page.category == "Gadgets" || page.category == "gadgets")
+		!= "《小玩意儿 (《科技聚变》出品）》 - " + config.title
 
-	!= page.category + " · " + config.title
+	!= page.category + " - " + config.title
 
 block content
 	.autopagerize_page_element: .content

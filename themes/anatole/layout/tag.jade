@@ -1,7 +1,7 @@
 extends partial/layout
 
 block site_title
-	!= page.tag + " · " + config.title
+	!= page.tag + " - " + config.title
 
 block description
 	- var desc = '标签：' + page.tag + ' - ' + config.title;
