@@ -22,7 +22,12 @@ mixin make_post(item, index, is_detail)
 			.info
 				i.fa.fa-calendar
 				span.date= date(item.date, 'YYYY 年 MM 月 DD 日')
-
+			.info
+				i.fa.fa-calendar
+				if (item.categories == "spotlight")
+					span.date= "《聚焦》"
+				if (item.categories == "gadgets")
+					span.date= "《小玩意儿》"
 
 mixin make_pager()
 	- var prev = page.prev_link
