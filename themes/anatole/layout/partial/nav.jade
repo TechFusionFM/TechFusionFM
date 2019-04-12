@@ -4,14 +4,14 @@
       a(href="/")= __('Home')	
     li
       if is_current('Spotlight')
-        a.current(href="/categories/spotlight")= __('Spotlight')					
+        a.current(href="/categories/spotlight/")= __('Spotlight')					
       else
-        a(href="/categories/spotlight")= __('Spotlight')	
+        a(href="/categories/spotlight/")= __('Spotlight')	
     li
       if is_current('Gadgets')
-        a.current(href="/categories/gadgets")= __('Gadgets')					
+        a.current(href="/categories/gadgets/")= __('Gadgets')					
       else
-        a(href="/categories/gadgets")= __('Gadgets')	
+        a(href="/categories/gadgets/")= __('Gadgets')	
     li
       if is_current('FAQ')
         a.current(href="/faq")= __('FAQ')			
@@ -24,6 +24,6 @@
         a(href="mailto:hi@TechFusionFM.com")= __('Email')	
     li
       if is_current('Donate')
-        a.current(href="/donate")= __('Donate')					
+        a.current(href="/donate/")= __('Donate')					
       else
-        a(href="/donate")= __('Donate')	
+        a(href="/donate/")= __('Donate')	
